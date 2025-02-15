@@ -25,7 +25,7 @@
 								<idno>Auct. P 2.2</idno>
 							</msIdentifier>
 							<msContents>
-								<summary>Esemplare dell'edizione parmense del 1477 dell’Opera Omnia di Ovidio. Sappiamo con certezza che apparteneva al Poliziano dalla nota di possesso al f. 1r che riporta la dicitura «Ἀγγέλου χτῆμα Πωλιτιανοῦ καὶ τῶν φίλων». Il manoscritto presenta copiose annotazioni marginali in inchiostro marrone e rosso. <ref target="http://www.autografi.net/dl/resource/3929">SCHEDA ALI</ref>. <ref target="https://data.cerl.org/mei/00206404">SCHEDA CERL</ref></summary>
+								<summary>Esemplare dell'edizione parmense del 1477 dell’Opera Omnia di Ovidio. Sappiamo con certezza che apparteneva al Poliziano dalla nota di possesso al f. 1r che riporta la dicitura «Ἀγγέλου κτῆμα Πωλιτιανοῦ καὶ τῶν φίλων». Il manoscritto presenta copiose annotazioni marginali in inchiostro marrone e rosso. <ref target="http://www.autografi.net/dl/resource/3929">SCHEDA ALI</ref>. <ref target="https://data.cerl.org/mei/00206404">SCHEDA CERL</ref></summary>
 								<msItem xml:id="printedText">
 									<title>Ovidii Opera Omnia. Testo a stampa</title>
 									<docImprint>
@@ -988,6 +988,396 @@
 					<lb />
 					<listBibl xml:id="bibliografia">
 					<head>Bibliografia</head>
+					    <biblStruct type="book" xml:id="cesarini_martinelli_1978">
+							<monogr>
+								<title level="m">Angelo Poliziano. Commento inedito alle Selve di Stazio</title>
+								<idno type="callNumber">851.2 POLI 7(1)</idno>
+								<editor>
+									<forename>Lucia</forename>
+									<surname>Cesarini Martinelli</surname>
+								</editor>
+								<imprint>
+									<pubPlace>Firenze</pubPlace>
+									<publisher>Sansoni</publisher>
+									<date>1978</date>
+								</imprint>
+							</monogr>
+							<series>
+								<title level="s">Istituto nazionale di studi sul Rinascimento Studi e testi</title>
+							</series>
+						</biblStruct>
+						<biblStruct type="bookSection" xml:id="rizzo_1978">
+							<analytic>
+								<title level="a">Una prolusione del Poliziano e i commentatori greci di Aristotele</title>
+								<author>
+									<forename>Silvia</forename>
+									<surname>Rizzo</surname>
+								</author>
+							</analytic>
+							<monogr>
+								<title level="m">Studi in onore di Anthos Ardizzoni</title>
+								<idno type="callNumber">P2D- ARDIZZONI A. (1 TER)-1978</idno>
+								<editor>
+									<forename>Enrico</forename>
+									<surname>Livrea</surname>
+								</editor>
+								<editor>
+									<forename>G. Aurelio</forename>
+									<surname>Privitera</surname>
+								</editor>
+								<imprint>
+									<pubPlace>Roma</pubPlace>
+									<biblScope unit="page">761-768</biblScope>
+									<publisher>Ed. dell'Ateneo &amp; Bizzarri</publisher>
+									<date>1978</date>
+								</imprint>
+							</monogr>
+							<series>
+								<title level="s">Filologia e critica</title>
+							</series>
+						</biblStruct>
+						<biblStruct type="book" xml:id="silvano_2010">
+							<monogr>
+								<title level="m">Angelo Poliziano. Appunti per un corso sull'Odissea: editio princeps dal Par. gr. 3069</title>
+								<title type="short">Appunti per un corso sull'Odissea</title>
+								<idno type="ISBN">978-88-6274-196-5</idno>
+								<idno type="callNumber">PA4037.A2 P65 2010</idno>
+								<editor>
+									<forename>Luigi</forename>
+									<surname>Silvano</surname>
+								</editor>
+								<imprint>
+									<pubPlace>Alessandria</pubPlace>
+									<publisher>Edizioni dell'Orso</publisher>
+									<date>2010</date>
+								</imprint>
+							</monogr>
+							<series>
+								<title level="s">Hellenica</title>
+								<biblScope unit="volume">37</biblScope>
+							</series>
+						</biblStruct>
+						<biblStruct type="book" xml:id="lo_monaco_1991">
+							<monogr>
+								<title level="m">Angelo Poliziano. Commento inedito ai Fasti di Ovidio</title>
+								<idno type="ISBN">978-88-222-3878-8</idno>
+								<idno type="callNumber">PA6519.F9 P65 1991</idno>
+								<editor>
+									<forename>Francesco</forename>
+									<surname>Lo Monaco</surname>
+								</editor>
+								<imprint>
+									<pubPlace>Firenze</pubPlace>
+									<publisher>L.S. Olschki</publisher>
+									<date>1991</date>
+								</imprint>
+							</monogr>
+							<series>
+								<title level="s">Studi e testi / Istituto nazionale di studi sul Rinascimento</title>
+								<biblScope unit="volume">22</biblScope>
+							</series>
+						</biblStruct>
+						<biblStruct type="book" xml:id="vespoli_2024">
+							<monogr>
+								<title level="m">Angelo Poliziano. Commento inedito alle Bucoliche di Virgilio</title>
+								<idno type="ISBN">978-88-222-6941-6</idno>
+								<editor>
+									<forename>Lorenzo</forename>
+									<surname>Vespoli</surname>
+								</editor>
+								<imprint>
+									<pubPlace>Firenze</pubPlace>
+									<publisher>Leo S. Olschki</publisher>
+									<date>2024</date>
+								</imprint>
+							</monogr>
+							<series>
+								<title level="s">Edizione nazionale delle opere di Angelo Poliziano. Testi</title>
+							</series>
+						</biblStruct>
+						<biblStruct type="book" xml:id="poliziano_1957">
+							<monogr>
+								<title level="m">Il Poliziano e il suo tempo: atti del IV convegno internazionale di studi sul Rinascimento : Firenze, Palazzo Strozzi, 23-26 settembre, 1954</title>
+								<title type="short">Il Poliziano e il suo tempo</title>
+								<idno type="callNumber">851.2 POLI/S 5</idno>
+								<author>
+									<name>Istituto nazionale di studi sul Rinascimento</name>
+								</author>
+								<imprint>
+									<pubPlace>Firenze</pubPlace>
+									<publisher>Sansoni</publisher>
+									<date>1957</date>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="bookSection" xml:id="campana_1957">
+							<analytic>
+								<title level="a">Contributi alla bibliotheca del Poliziano</title>
+								<author>
+									<forename>A.</forename>
+									<surname>Campana</surname>
+								</author>
+							</analytic>
+							<monogr>
+								<title level="m">Il Poliziano e il suo tempo: atti del IV convegno internazionale di studi sul Rinascimento : Firenze, Palazzo Strozzi, 23-26 settembre, 1954</title>
+								<idno type="callNumber">851.2 POLI/S 5</idno>
+								<author>
+									<name>Istituto Nazionale di Studi sul Rinascimento</name>
+								</author>
+								<imprint>
+									<pubPlace>Firenze</pubPlace>
+									<publisher>Sansoni</publisher>
+									<date>1957</date>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="bookSection" xml:id="lo_monaco_1998">
+							<analytic>
+								<title level="a">Ovidio, Poliziano, Pier Vettori. Sull'attribuzione delle postille all'incunabolo München, Bayerische Staatsbibliothek, 2° L. imp. c.n. mss. 35</title>
+								<title type="short">Ovidio, Poliziano, Pier Vettori.</title>
+								<author>
+									<forename>Francesco</forename>
+									<surname>Lo Monaco</surname>
+								</author>
+							</analytic>
+							<monogr>
+								<title level="m">Agnolo Poliziano: poeta scrittore filologo : atti del Convegno Internazionale di studi, Montepulciano, 3-6 novembre 1994</title>
+								<idno type="ISBN">978-88-7166-369-2</idno>
+								<idno type="callNumber">SDI-KT-815</idno>
+								<editor>
+									<forename>Vincenzo</forename>
+									<surname>Fera</surname>
+								</editor>
+								<editor>
+									<forename>Mario</forename>
+									<surname>Martelli</surname>
+								</editor>
+								<imprint>
+									<pubPlace>Firenze</pubPlace>
+									<biblScope unit="page">403-424</biblScope>
+									<publisher>Le Lettere</publisher>
+									<date>1998</date>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="book" xml:id="canart_eleuteri_1991">
+							<monogr>
+								<title level="m">Canart Eleuteri, Scrittura Greca Nell Umanesimo Italiano</title>
+								<author>
+									<forename>Paolo</forename>
+									<surname>Eleuteri</surname>
+								</author>
+								<author>
+									<forename>Paul</forename>
+									<surname>Canart</surname>
+								</author>
+								<imprint>
+									<pubPlace>Milano</pubPlace>
+									<publisher>II Polifilo</publisher>
+									<date>1991</date>
+									<note type="accessed">2024-11-06T22:58:38Z</note>
+									<note type="url">http://archive.org/details/canart-eleuteri-scrittura-greca-nell-umanesimo-italiano</note>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="book" xml:id="pierazzo_driscoll_2016">
+							<monogr>
+								<title level="m">Digital Scholarly Editing: Theories and Practices</title>
+								<title type="short">Digital Scholarly Editing</title>
+								<idno type="ISBN">978-1-78374-238-7 978-1-78374-239-4 978-1-78374-240-0 978-1-80064-514-1 978-1-78374-627-9 978-1-78374-241-7 978-1-78374-242-4</idno>
+								<author>
+									<name>Elena Pierazzo</name>
+								</author>
+								<author>
+									<name>Matthew James Driscoll</name>
+								</author>
+								<imprint>
+									<publisher>Open Book Publishers</publisher>
+									<date>2016</date>
+									<note type="accessed">2024-11-09T19:49:14Z</note>
+									<note type="url">http://archive.org/details/43d96298-a683-4098-9492-bba1466cb8e0</note>
+								</imprint>
+							</monogr>
+							<series>
+								<title level="s">Digital Humanities Series</title>
+							</series>
+						</biblStruct>
+						<biblStruct type="book" xml:id="aveto_dalmas_stefanelli_2024">
+							<monogr>
+								<title level="m">Scrivere a margine. Postille d'autore dal cartaceo al digitale</title>
+								<idno type="ISBN">978-88-3618-279-4</idno>
+								<author>
+									<forename>Andrea</forename>
+									<surname>Aveto</surname>
+								</author>
+								<author>
+									<forename>Davide</forename>
+									<surname>Dalmas</surname>
+								</author>
+								<author>
+									<forename>Luca</forename>
+									<surname>Stefanelli</surname>
+								</author>
+								<imprint>
+									<publisher>ITA</publisher>
+									<date>2024</date>
+									<note type="accessed">2024-12-20T10:29:41Z</note>
+									<note type="url">https://iris.unito.it/handle/2318/2029034?mode=complete</note>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="book" xml:id="maier_1965">
+							<monogr>
+								<title level="m">Les manuscrits d’Ange Politien: Catalogue descriptif, avec dix-neuf documents inédits en appendice.</title>
+								<title type="short">Les manuscrits d’Ange Politien</title>
+								<idno type="ISBN">978-2-600-33002-2</idno>
+								<author>
+									<forename>Ida</forename>
+									<surname>Maïer</surname>
+								</author>
+								<imprint>
+									<pubPlace>Genève</pubPlace>
+									<publisher>Librairie Droz</publisher>
+									<date>1965</date>
+									<note type="accessed">2024-12-23T17:33:50Z</note>
+									<note type="url">http://openurl.droz.org/?id=9782600030021</note>
+								</imprint>
+							</monogr>
+							<series>
+								<title level="s">Travaux d'humanisme et Renaissance</title>
+								<biblScope unit="volume">70</biblScope>
+							</series>
+						</biblStruct>
+						<biblStruct type="book" xml:id="sabbadini_1905">
+							<monogr>
+								<title level="m">Le scoperte dei codici latini e greci ne'secoli 14 e 15</title>
+								<idno type="callNumber">ABB-7465</idno>
+								<author>
+									<forename>Remigio</forename>
+									<surname>Sabbadini</surname>
+								</author>
+								<respStmt>
+									<resp>contributor</resp>
+									<persName>
+										<name>Robarts - University of Toronto</name>
+									</persName>
+								</respStmt>
+								<imprint>
+									<publisher>Firenze G.C. Sansoni</publisher>
+									<date>1905</date>
+									<note type="accessed">2024-12-23T19:10:16Z</note>
+									<note type="url">http://archive.org/details/lescopertedeicod01sabbuoft</note>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="book">
+							<monogr>
+								<title level="m">Polemiche e filologia ai primordi della stampa</title>
+								<idno type="ISBN">978-88-87114-82-9</idno>
+								<author>
+									<forename>Maurizio</forename>
+									<surname>Campanelli</surname>
+								</author>
+								<imprint>
+									<pubPlace>Roma</pubPlace>
+									<publisher>Edizioni di Storia e Letteratura</publisher>
+									<date>2001</date>
+									<note type="accessed">2025-01-03T22:54:34Z</note>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="journalArticle">
+							<analytic>
+								<title level="a">Studies in Domizio Calderini's &lt;hi rend="italics"&gt;In Sappho Ovidii&lt;/hi&gt;</title>
+								<author>
+									<forename>William</forename>
+									<surname>Little</surname>
+								</author>
+							</analytic>
+							<monogr>
+								<title level="j">Medioevo e rinascimento</title>
+								<imprint>
+									<biblScope unit="volume">32</biblScope>
+									<date>2021</date>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="book">
+							<monogr>
+								<title level="m">Scrivere sui libri: breve guida al libro a stampa postillato</title>
+								<title type="short">Scrivere sui libri</title>
+								<idno type="ISBN">978-88-6973-676-6</idno>
+								<author>
+									<forename>Giancarlo</forename>
+									<surname>Petrella</surname>
+								</author>
+								<imprint>
+									<publisher>Salerno Editrice</publisher>
+									<date>2022</date>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="journalArticle">
+							<analytic>
+								<title level="a">Osservazioni sui manoscritti dei Moralia di Plutarco utilizzati da Angelo Poliziano</title>
+								<idno type="DOI">10.1400/201857</idno>
+							</analytic>
+							<monogr>
+								<title level="j">Osservazioni sui manoscritti dei Moralia di Plutarco utilizzati da Angelo Poliziano</title>
+								<imprint>
+									<biblScope unit="page">875-882</biblScope>
+									<date>2013</date>
+									<note type="accessed">2025-01-23T09:21:28Z</note>
+									<note type="url">https://access.torrossa.com/it/resources/an/2524077</note>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="book">
+							<monogr>
+								<title level="m">Cultura e filologia di Angelo Poliziano : traduzioni e commenti : atti del convegno di studi, Firenze 27-29 novembre 2014</title>
+								<title type="short">Cultura e filologia di Angelo Poliziano</title>
+								<author>
+									<forename>Paolo</forename>
+									<surname>Viti</surname>
+								</author>
+								<imprint>
+									<publisher>Leo S. Olschki</publisher>
+									<date>2016</date>
+									<note type="accessed">2025-01-24T15:28:51Z</note>
+									<note type="url">https://www.torrossa.com/en/resources/an/3679904</note>
+								</imprint>
+							</monogr>
+						</biblStruct>
+						<biblStruct type="bookSection">
+							<analytic>
+								<title level="a">Poliziano e gli scolii esiodei Note di studio sullo zibaldone Cgm 182: Note di studio sullo zibaldone Cgm 182</title>
+								<title type="short">Poliziano e gli scolii esiodei Note di studio sullo zibaldone Cgm 182</title>
+								<author>
+									<forename>Alberto</forename>
+									<surname>Longhi</surname>
+								</author>
+							</analytic>
+							<monogr>
+								<title level="m">«L’umanesimo della parola» Studi di italianistica in memoria di Attilio Bettinzoli</title>
+								<idno type="ISBN">978-88-6969-653-4 978-88-6969-652-7</idno>
+								<author>
+									<forename>Valerio</forename>
+									<surname>Vianello</surname>
+								</author>
+								<author>
+									<forename>Alberto</forename>
+									<surname>Zava</surname>
+								</author>
+								<imprint>
+									<pubPlace>Venezia</pubPlace>
+									<biblScope unit="page">Chapter_15352</biblScope>
+									<publisher>Fondazione Università Ca’ Foscari</publisher>
+									<date>2023</date>
+									<note type="accessed">2025-01-24T16:27:53Z</note>
+									<note type="url">https://edizionicafoscari.unive.it/it/edizioni/libri/978-88-6969-653-4/poliziano-e-gli-scolii-esiodei/</note>
+								</imprint>
+							</monogr>
+						</biblStruct>
 						<biblStruct type="book" xml:id="Brencmann1722">
 							<monogr>
 								<title level="m">Historia Pandectarum seu Fatum exemplaris florentini accedit Gemina dissertatio de Amalphi</title>
