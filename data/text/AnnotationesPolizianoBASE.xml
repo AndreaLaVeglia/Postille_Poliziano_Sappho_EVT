@@ -3312,9 +3312,9 @@
 									Amoribus
 								</ref>
 							</title>. <seg source="urn_cts_latinLit_phi0959.phi001.perseus-lat2_2.18.25-2.18.26">
-								<ref target="https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.25-2.18.26">Quodque tenens strictum <persName>dDido</persName> miserabilis ensem dictat, et Aonie Lesbis amica lyre</ref>
+								<ref target="https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.25-2.18.26">Quodque tenens strictum <persName>Dido</persName> miserabilis ensem dictat, et Aonie Lesbis amica lyre</ref>
 							</seg> • <persName>Idem</persName> •  <seg source="urn_cts_latinLit_phi0959.phi001.perseus-lat2_2.18.34">
-								<ref target="https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.34">Dat votam <persName>pPhebo</persName> Lesbis amica lyram</ref>
+								<ref target="https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.34">Dat votam <persName>Phebo</persName> Lesbis amica lyram</ref>
 							</seg>
 						</p>
 					</div>
@@ -3323,7 +3323,7 @@
 						<head>238v.0.1[Sappho]a</head>
 						<p facs="#facs_1_r">
 							<lb facs="#facs_1_tr_1_tl_1" n="N001" xml:id="facs_1_tr_1_tl_1"/>
-							<persName>σΣτράβων</persName>
+							<persName>Στράβων</persName>
 							<title xml:id="Q690653">
 								<ref target="https://wikidata.org/wiki/Q690653">ἐν τῶι •ΙΓ•</ref>
 							</title>
@@ -3354,19 +3354,19 @@
 									<lb facs="#facs_1_tr_1_tl_9" n="N002" xml:id="facs_1_tr_1_tl_9"/><seg source="urn_cts_greekLit_tlg9010.tlg001.opp-grc2.4.Σ.107">
 								<ref target="http://stephanus.tlg.uci.edu/Iris/Cite?9010:001:4470740">
 									<persName>
-										ϹαπφὼΣαπφὼ
+										Σαπφὼ
 									</persName>
 									<persName>
-										σΣίμωνος </persName>, οἱ δὲ <persName>εΕὐνομινου</persName>, οἱ δὲ <persName>ἐἘριγύου</persName>
-											<lb facs="#facs_1_tr_1_tl_12" n="N003" xml:id="facs_1_tr_1_tl_12"/>οἰ δὲ, <persName>ἐἘκρύτου</persName>. οἰ δὲ <persName>σΣήμου</persName>, οἰ δὲ <persName>κΚάμωνος</persName>
-											<lb facs="#facs_1_tr_1_tl_14" n="N004" xml:id="facs_1_tr_1_tl_14"/>οἱ δὲ <persName>ἐἘτάρχου</persName>, οἱ δὲ <persName>σΣκαμανδρωνίου</persName>· 
-									<lb facs="#facs_1_tr_1_tl_16" n="N005" xml:id="facs_1_tr_1_tl_16"/><persName>κΚλειδὸσς</persName>, Λεσβία ἐξ Ἐρεσσοῦ, λυρική, γεγονυῖα <lb facs="#facs_1_tr_1_tl_18" n="N006" xml:id="facs_1_tr_1_tl_18"/>κατὰ τὴν μβʹ ὀλυμπιάδα ὅτε καὶ Ἀλκαῖ<hi rend="superscript:true;">ος </hi>ἦν <lb facs="#facs_1_tr_1_tl_20" n="N007" xml:id="facs_1_tr_1_tl_20"/>καὶ <persName>σΣτησίχοροσς</persName> καὶ <persName>πΠίττακοσς</persName>. ἦσαν δὲ αὐτῇ καὶ <lb facs="#facs_1_tr_1_tl_22" n="N008" xml:id="facs_1_tr_1_tl_22"/>ἀδελφοὶ τρεῖς, <persName>λΛάριχοσς</persName>, <persName>χΧάραξοσς</persName>, <persName>εΕὐρύγιοσς</persName>. <lb facs="#facs_1_line_1730224696632_212" n="N009" xml:id="facs_1_line_1730224696632_212"/>ἐγαμήθη δὲ ἀνδρὶ Κερκύλ πλουσιωτάτῳ, <lb facs="#facs_1_tr_1_tl_26" n="N010" xml:id="facs_1_tr_1_tl_26"/>ὡρμωμέν ῳ ἀπὸ <unclear>ἄν</unclear><unclear>δρου</unclear>, καὶ θυγατέρα ἐποιήσατο <lb facs="#facs_1_tr_1_tl_28" n="N011" xml:id="facs_1_tr_1_tl_28"/>ἐξ αὐτοῦ, ἣ Κλεὶς ὠνομάσθη. ἑταῖρ<hi rend="superscript:true;">αι</hi> δὲ αὐτῆς <lb facs="#facs_1_tr_1_tl_30" n="N012" xml:id="facs_1_tr_1_tl_30"/>καὶ φίλαι γεγόνασι τρεῖς, <persName>ἀἈτθίσς</persName>, <persName>τΤελεσίππα</persName>, <lb facs="#facs_1_tr_1_tl_33" n="N013" xml:id="facs_1_tr_1_tl_33"/><persName>μΜεγάρα</persName>· πρὸς ἃς καὶ διαβολὴν ἔσχεν αἰσχρᾶς φιλί<hi rend="superscript:true;">ας</hi>. <lb facs="#facs_1_tr_1_tl_35" n="N014" xml:id="facs_1_tr_1_tl_35"/>μαθήτρια δὲ αὐτῆαὐτῆς <persName>ἀἈναγορα μιλησίαα
-									</persName>, <persName>γΓογγύλα κΚολοφωνία</persName>, <persName>εΕὐνείκα σΣαλαμινία</persName> ἔγραψε δὲ μελῶν <lb facs="#facs_1_tr_1_tl_40" n="N016" xml:id="facs_1_tr_1_tl_40"/>λυρικῶν βιβλία θ´. καὶ πρώτη πλῆκτρον εὗρεν. <lb facs="#facs_1_tr_1_tl_43" n="N017" xml:id="facs_1_tr_1_tl_43"/>ἔγρα<unclear>ψε δὲ καὶ ἐπι</unclear>γράμματα καὶ ἐλεγεῖ<hi rend="superscript:true;">α</hi> καὶ ἰάμβ<hi rend="superscript:true;">ους</hi>
+										Σίμωνος </persName>, οἱ δὲ <persName>Εὐνομινου</persName>, οἱ δὲ <persName>Ἐριγύου</persName>
+											<lb facs="#facs_1_tr_1_tl_12" n="N003" xml:id="facs_1_tr_1_tl_12"/>οἰ δὲ, <persName>Ἐκρύτου</persName>. οἰ δὲ <persName>Σήμου</persName>, οἰ δὲ <persName>Κάμωνος</persName>
+											<lb facs="#facs_1_tr_1_tl_14" n="N004" xml:id="facs_1_tr_1_tl_14"/>οἱ δὲ <persName>Ἐτάρχου</persName>, οἱ δὲ <persName>Σκαμανδρωνίου</persName>· 
+									<lb facs="#facs_1_tr_1_tl_16" n="N005" xml:id="facs_1_tr_1_tl_16"/><persName>Κλειδὸς</persName>, Λεσβία ἐξ Ἐρεσσοῦ, λυρική, γεγονυῖα <lb facs="#facs_1_tr_1_tl_18" n="N006" xml:id="facs_1_tr_1_tl_18"/>κατὰ τὴν μβʹ ὀλυμπιάδα ὅτε καὶ Ἀλκαῖ<hi rend="superscript:true;">ος </hi>ἦν <lb facs="#facs_1_tr_1_tl_20" n="N007" xml:id="facs_1_tr_1_tl_20"/>καὶ <persName>Στησίχορος</persName> καὶ <persName>Πίττακος</persName>. ἦσαν δὲ αὐτῇ καὶ <lb facs="#facs_1_tr_1_tl_22" n="N008" xml:id="facs_1_tr_1_tl_22"/>ἀδελφοὶ τρεῖς, <persName>Λάριχος</persName>, <persName>Χάραξος</persName>, <persName>Εὐρύγιος</persName>. <lb facs="#facs_1_line_1730224696632_212" n="N009" xml:id="facs_1_line_1730224696632_212"/>ἐγαμήθη δὲ ἀνδρὶ Κερκύλ πλουσιωτάτῳ, <lb facs="#facs_1_tr_1_tl_26" n="N010" xml:id="facs_1_tr_1_tl_26"/>ὡρμωμέν ῳ ἀπὸ <unclear>ἄν</unclear><unclear>δρου</unclear>, καὶ θυγατέρα ἐποιήσατο <lb facs="#facs_1_tr_1_tl_28" n="N011" xml:id="facs_1_tr_1_tl_28"/>ἐξ αὐτοῦ, ἣ Κλεὶς ὠνομάσθη. ἑταῖρ<hi rend="superscript:true;">αι</hi> δὲ αὐτῆς <lb facs="#facs_1_tr_1_tl_30" n="N012" xml:id="facs_1_tr_1_tl_30"/>καὶ φίλαι γεγόνασι τρεῖς, <persName>Ἀτθίς</persName>, <persName>Τελεσίππα</persName>, <lb facs="#facs_1_tr_1_tl_33" n="N013" xml:id="facs_1_tr_1_tl_33"/><persName>Μεγάρα</persName>· πρὸς ἃς καὶ διαβολὴν ἔσχεν αἰσχρᾶς φιλί<hi rend="superscript:true;">ας</hi>. <lb facs="#facs_1_tr_1_tl_35" n="N014" xml:id="facs_1_tr_1_tl_35"/>μαθήτρια δὲ αὐτῆαὐτῆς <persName>Ἀναγορα μιλησία
+									</persName>, <persName>Γογγύλα <lb facs="#facs_1_tr_1_tl_36" n="N015" xml:id="facs_1_tr_1_tl_36"/>Κολοφωνί<hi rend="superscript:true;">α</hi></persName>, <persName>Εὐνείκα Σαλαμινί<hi rend="superscript:true;">α</hi></persName> ἔγραψε δὲ μελῶν <lb facs="#facs_1_tr_1_tl_40" n="N016" xml:id="facs_1_tr_1_tl_40"/>λυρικῶν βιβλία θ´. καὶ πρώτη πλῆκτρον εὗρεν. <lb facs="#facs_1_tr_1_tl_43" n="N017" xml:id="facs_1_tr_1_tl_43"/>ἔγρα<unclear>ψε δὲ καὶ ἐπι</unclear>γράμματα καὶ ἐλεγεῖ<hi rend="superscript:true;">α</hi> καὶ ἰάμβ<hi rend="superscript:true;">ους</hi>
 											<lb facs="#facs_1_l_133" n="N018" xml:id="facs_1_l_133"/>καὶ μονῳδί<hi rend="superscript:true;"><unclear>ας.</unclear>
 									</hi>
 								</ref>
 							</seg>) (. ὁ αὐτὸς παλιν .)<seg source="urn_cts_greekLit_tlg9010.tlg001.opp-grc2.4.Σ.108">
-								<ref target="http://stephanus.tlg.uci.edu/Iris/Cite?9010:001:4470740"><persName>ϹΣαπφώ</persName>, λεσ- <lb facs="#facs_1_tr_1_tl_47" n="N019" xml:id="facs_1_tr_1_tl_47"/>βία ἐκ <placeName ref="#Q42295059">Μιτυλήνης</placeName>, ψάλτρια. αὕτη δι' ἔρωτα <lb facs="#facs_1_tr_1_tl_50" n="N020" xml:id="facs_1_tr_1_tl_50"/><persName>φΦάωνοσς τοῦ μΜιτυληναίου</persName> ἐκ τοῦ <placeName ref="#Q190138">Λευκάτου</placeName> κατε- <lb facs="#facs_1_tr_1_tl_52" n="N021" xml:id="facs_1_tr_1_tl_52"/>πόντωσεν ἑαυτήν. τινὲς δὲ καὶ ταύτης εἶναι λυρικὴν <lb facs="#facs_1_line_1730809912823_16" n="N022" xml:id="facs_1_line_1730809912823_16"/>ἀνέγραψαν ποίησιν. </ref>
+								<ref target="http://stephanus.tlg.uci.edu/Iris/Cite?9010:001:4470740"><persName>Σαπφώ</persName>, λεσ- <lb facs="#facs_1_tr_1_tl_47" n="N019" xml:id="facs_1_tr_1_tl_47"/>βία ἐκ <placeName ref="#Q42295059">Μιτυλήνης</placeName>, ψάλτρια. αὕτη δι' ἔρωτα <lb facs="#facs_1_tr_1_tl_50" n="N020" xml:id="facs_1_tr_1_tl_50"/><persName>Φάωνος τοῦ Μιτυληναίου</persName> ἐκ τοῦ <placeName ref="#Q190138">Λευκάτου</placeName> κατε- <lb facs="#facs_1_tr_1_tl_52" n="N021" xml:id="facs_1_tr_1_tl_52"/>πόντωσεν ἑαυτήν. τινὲς δὲ καὶ ταύτης εἶναι λυρικὴν <lb facs="#facs_1_line_1730809912823_16" n="N022" xml:id="facs_1_line_1730809912823_16"/>ἀνέγραψαν ποίησιν. </ref>
 							</seg>
 						</p>
 					</div>
@@ -3424,11 +3424,11 @@
 						<p facs="#facs_1_r_421">
 							<lb facs="#facs_1_l_559" n="N001" xml:id="facs_1_l_559"/><persName>Plutarchus</persName> in Libro cui titulus est <title xml:id="Q28942550">
 								<ref target="https://wikidata.org/wiki/Q28942550">Mulierum <lb facs="#facs_1_l_1466" n="N002" xml:id="facs_1_l_1466"/><unclear> Virtutes</unclear></ref>
-							</title>, . sed quod <persName>sSapphus</persName> inquit
+							</title>, . sed quod <persName>Sapphus</persName> inquit
 									<lb facs="#facs_1_l_566" n="N003" xml:id="facs_1_l_566"/>
 									<seg source="urn_cts_greekLit_tlg0007.tlg083.opp-grc3_0">
 								<ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0007.tlg083.perseus-grc1:0"> odas τοῖς τοῦ <lb facs="#facs_1_l_577" n="N004" xml:id="facs_1_l_577"/>
-										<persName>ἀἈνακρέοντος</persName> aut <lb facs="#facs_1_l_588" n="N005" xml:id="facs_1_l_588"/>sibylle vaticinia <lb facs="#facs_1_l_599" n="N006" xml:id="facs_1_l_599"/>τοῖς τοῦ βάκιδος </ref>
+										<persName>Ἀνακρέοντος</persName> aut <lb facs="#facs_1_l_588" n="N005" xml:id="facs_1_l_588"/>sibylle vaticinia <lb facs="#facs_1_l_599" n="N006" xml:id="facs_1_l_599"/>τοῖς τοῦ βάκιδος </ref>
 							</seg>
 									<lb facs="#facs_1_l_606" n="N007" xml:id="facs_1_l_606"/>Conferam :- </p>
 					</div>
@@ -3474,11 +3474,11 @@
 					<div type="postilla" subtype="marginale" n="238v.11.2[Phaon]" xml:id="cp238v112" rend="color:brown" ana="#lociParalleli">
 						<head>238v.11.2[Phaon]</head>
 						<p facs="#facs_1_r_1183">
-							<lb facs="#facs_1_l_1726" n="N001" xml:id="facs_1_l_1726"/><persName>lLucianus</persName> in dialogo qui inscribitur <title xml:id="DMort">
+							<lb facs="#facs_1_l_1726" n="N001" xml:id="facs_1_l_1726"/><persName>Lucianus</persName> in dialogo qui inscribitur <title xml:id="DMort">
 								<ref target="https://www.wikidata.org/wiki/Q1975147">Σιμύλλον καὶ Πολυστράτου</ref>
 							</title>
 									<lb facs="#facs_1_tr_1_tl_64" n="N002" xml:id="facs_1_tr_1_tl_64"/>agens de senece qui videbatur in iuvenalitatem revertisse, sic ait: <seg source="urn_cts_greekLit_tlg0062.tlg066.perseus-grc3_19.2"><ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg066.perseus-grc3:19.2">μῶν
-									<lb facs="#facs_1_tr_1_tl_66" n="N003" xml:id="facs_1_tr_1_tl_66"/>καὶ σὺ τινα ὤσπερ ὁ <persName>Φάων</persName> τὴν <persName>ἀἈφροδίτην</persName> ἐκ χίου διεπόρθμευσας
+									<lb facs="#facs_1_tr_1_tl_66" n="N003" xml:id="facs_1_tr_1_tl_66"/>καὶ σὺ τινα ὤσπερ ὁ <persName>Φάων</persName> τὴν <persName>Ἀφροδίτην</persName> ἐκ χίου διεπόρθμευσας
 									<lb facs="#facs_1_l_2680" n="N004" xml:id="facs_1_l_2680"/>εἶτα σοὶ εὐξαμένῳ ἔδωκε νέον εἶναι καλὸν ἐξ ὑπαρχῆς καὶ ἀξιέ
 									<lb facs="#facs_1_l_336" n="N005" xml:id="facs_1_l_336"/>ραστον</ref>
 							</seg>
@@ -3508,12 +3508,10 @@
 						<p facs="#facs_1_r_385">
 							<lb facs="#facs_1_l_1275" n="N001" xml:id="facs_1_l_1275"/>
 									<persName>
-								
-										pausanias
-									Pausanias
+								Pausanias
 							</persName> ait <seg source="urn_cts_greekLit_tlg0525.tlg001.perseus-grc1_9.29.3">
 								<ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.29.3">
-									<persName>pPierum mMacedonem</persName> primum omnium novem <lb facs="#facs_1_tr_1_tl_71" n="N002" xml:id="facs_1_tr_1_tl_71"/>tradidisse musas</ref>
+									<persName><unclear>Pierum</unclear> Macedonem</persName> primum omnium novem <lb facs="#facs_1_tr_1_tl_71" n="N002" xml:id="facs_1_tr_1_tl_71"/>tradidisse musas</ref>
 							</seg> : - </p>
 					</div>
 					<lb/>
@@ -3551,14 +3549,14 @@
 						<head>238v.17b</head>
 						<p facs="#facs_1_r_1260">
 							<add><lb facs="#facs_1_l_663" n="N001" xml:id="facs_1_l_663"/>περὶ τῶν</add>
-									<lb facs="#facs_1_l_137" n="N002" xml:id="facs_1_l_137"/>- <persName>Μάξιμοc ὁ τΤύριος </persName>ἐν τῷ· τις ἡ <persName>Σοκράτους </persName> ἐρωτική <lb facs="#facs_1_l_148" n="N003" xml:id="facs_1_l_148"/><seg source="urn_cts_greekLit_tlg0563.tlg001.1st1K-grc1_18.9.b-18.9.n">
+									<lb facs="#facs_1_l_137" n="N002" xml:id="facs_1_l_137"/>- <persName>Μάξιμοc ὁ Τύριος </persName>ἐν τῷ· τις ἡ <persName>Σοκράτο<hi rend="superscript:true;">υς </hi></persName> ἐρωτική <lb facs="#facs_1_l_148" n="N003" xml:id="facs_1_l_148"/><seg source="urn_cts_greekLit_tlg0563.tlg001.1st1K-grc1_18.9.b-18.9.n">
 								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1:18.9.b-18.9.n">τὸ δὲ <persName>
-										ἀἈρχιλόχου
+										Ἀρχιλόχου
 									</persName> ἔρωτα, ὑβριστής γὰρ, χαὶρειν ἐῶ, ὀδὲ
 									<lb facs="#facs_1_l_155" n="N004" xml:id="facs_1_l_155"/>τῆς Λεσβίας, ἥ τι χρὴ πρεσβύτερα τῖς νέοις εἰκάσ<hi rend="superscript:true;">αι</hi>,
 									<lb facs="#facs_1_l_162" n="N005" xml:id="facs_1_l_162"/>τί ἂν εἴη ἄλ<unclear>λ</unclear>ο ἢ αὐτὸ ἡ <persName>
-										CωκράτουΣωκράτου
-									</persName>ς τέχνη ἐρωτική; δο
+										Σωκράτους
+									</persName> τέχνη ἐρωτική; δο
 									<lb facs="#facs_1_l_169" n="N006" xml:id="facs_1_l_169"/>κοῦσι γάρ μοι τὴν καθ’αὑτὸν ἑκάτερος φιλίαν, ἡ μὲν
 									<lb facs="#facs_1_l_176" n="N007" xml:id="facs_1_l_176"/>γυναικῶν, ὁ <unclear>δὲ</unclear> ἀρρένων, ἐπιτηδεῦσ<hi rend="superscript:true;">αι</hi>. καὶ γὰρ πολ
 									<lb facs="#facs_1_l_183" n="N008" xml:id="facs_1_l_183"/>λῶν ἐρᾶν ἔλεγον, καὶ ὑπὸ πάντων ἁλίσκεσθαι τῶν
@@ -3566,53 +3564,53 @@
 										Ἀλκιβιάδης
 									</persName> καὶ Χαρμίδης
 									<lb facs="#facs_1_tr_1_tl_89" n="N010" xml:id="facs_1_tr_1_tl_89"/>καὶ <persName>
-										φΦαῖδρος
+										Φαῖδρος
 									</persName>, τοῦτο τῇ Λεσβίᾳ <persName>
-										γΓύριννα
+										Γύριννα
 									</persName> καὶ <persName>
-										ἀἈτθὶς
+										Ἀτθὶς
 									</persName>. <persName>
-										ἀἈνακτορία
+										Ἀνακτορί<hi rend="superscript:true;">α</hi>
 									</persName> καὶ ὅτι περ <persName>
-										σΣωκράτει
+										Σωκράτει
 									</persName> οἱ ἀντίτεχνοι, <persName>
-										πρόδικοσΠρόδικος
+										Πρόδικος
 									</persName> καὶ
 									<lb facs="#facs_1_tr_1_tl_90" n="N011" xml:id="facs_1_tr_1_tl_90"/><persName>
-										γοργίαςΓοργίας
+										Γοργίας
 									</persName> καὶ <persName>
-										θρασύμαχοσΘρασύμαχος
+										Θρασύμαχος
 									</persName> καὶ <persName>
-										πΠρωταγόρασς
+										Πρωταγόρας
 									</persName>, τοῦτο τῇ <persName>
-										ϹαπφοῖΣαπφοῖ
+										Σαπφοῖ
 									</persName> <persName>
-										γοργὼΓοργὼ
+										Γοργὼ
 									</persName> καὶ <persName>
-										ἀνδρομέδαἈνδρομέδα
+										Ἀνδρομέδα
 									</persName>. νῦν μὲν ἐπιτιμᾷ ταύταις,
 									<lb facs="#facs_1_tr_1_tl_91" n="N012" xml:id="facs_1_tr_1_tl_91"/>νῦν δὲ ἐλέγχει, καὶ εἰρωνεύεται αὐτὰ ἐκεῖνα τὰ <persName>Σωκράτους</persName>· <seg source="Ion530a"><ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg027.perseus-grc2:530"> τὸν ἴωνα χαίρειν φησὶν ὁ <persName>
-										Σωκράτης Σωκράτης 
+										Σωκράτης 
 									</persName></ref></seg><hi rend="underlined:true;">τὸν ἴωνα</hi>
 									<lb facs="#facs_1_tr_1_tl_92" n="N013" xml:id="facs_1_tr_1_tl_92"/><hi rend="underlined:true;">χαίρειν φησὶν</hi> ὁ <persName>
-										ΣωκράτηςΣωκράτης
+										Σωκράτης
 									</persName>·<seg source="Sapph155Neri"> πολλά μοι τὰν πολυανακτίδα χαίρειν</seg>, Σαπφὼ λέγει. οὐ προσιέναι φησὶν ὁ Σωκράτης
 									<lb facs="#facs_1_tr_1_tl_93" n="N014" xml:id="facs_1_tr_1_tl_93"/><persName>
-										ἀλκιβιάδῃἈλκιβιάδῃ
+										Ἀλκιβιάδῃ
 									</persName>, ἐκ πολλοῦ ἐρῶν, πρὶν ἡγήσαιτο ἱκαν<hi rend="superscript:true;">ὸν</hi> εἶναι πρὸσ λόγους· <seg source="Sapph49Neri">σμικρά μοι παῖς ἔτι φαίνεο καὶ καριέσσα</seg>
 									<lb facs="#facs_1_tr_1_tl_94" n="N015" xml:id="facs_1_tr_1_tl_94"/>Σαπφὼ λέγει. κωμωιδεῖ σχῆμά που καὶ κατάκλισιν σοφιστοῦ· καὶ αὕτη <seg source="Sapph57Neri">τίς δὲ ἀγροιῶτιν ἐπεμμένα στολήν</seg>
 									<lb facs="#facs_1_tr_1_tl_95" n="N016" xml:id="facs_1_tr_1_tl_95"/> τὸν ἔρωτα φησὶν ἡ διοτίμα οὐ παῖδα, ἀλλὰ ἀκόλουθον τῆς <persName>
-										ἀφροδίτης Ἀφροδίτης 
+										Ἀφροδίτης 
 									</persName>καὶ θεράποντα εἶναι· λέγει που καὶ σαπφοῖ
 									<lb facs="#facs_1_tr_1_tl_96" n="N017" xml:id="facs_1_tr_1_tl_96"/>ἡ <persName>
-										ἀφροδίτηἈφροδίτη
+										Ἀφροδίτη
 									</persName> ἐν ἄισματι, <seg source="Sapph159Neri">σύ τε κἀλὸσ θεράπων Ἔρως</seg>. ἡ Διοτίμα λέγει, ὅτι θάλλει μὲν ἔρως εὐπορῶν, ἀπο-
 									<lb facs="#facs_1_tr_1_tl_97" n="N018" xml:id="facs_1_tr_1_tl_97"/>θνήσκει δὲ ἀπορῶν· τοῦτο ἐκείνη ξυλλαβοῦσα εἶπεν <seg source="Sapph130Neri">γλυκύπικρον</seg> καὶ <seg source="Sapph188Neri">ἀλγεσίδωρον</seg>. τὸν ἔρωτα Σωκράτης
 									<lb facs="#facs_1_tr_1_tl_98" n="N019" xml:id="facs_1_tr_1_tl_98"/>σοφιστὴν λέγει, <persName>
-										σαπφὼΣαπφὼ
+										Σαπφὼ
 									</persName> <seg source="Sapph188Neri">μυθοπλόκον</seg>.
 									<lb facs="#facs_1_tr_1_tl_99" n="N020" xml:id="facs_1_tr_1_tl_99"/>ἐκβακχεύεται ἐπὶ<persName>
-										 φαίδρωι Φαίδρωι
+										 Φαίδρωι
 									</persName> ὑπὸ τοῦ ἔρωτος, τῇ δὲ ὁ ἔρως</ref>
 							</seg>
 						</p>
@@ -3712,13 +3710,10 @@
 								<ref target="https://wikidata.org/wiki/Q3706679">V  τῶν ἑταιρικῶν διαλόγων</ref>
 							</title>
          					Luciani inducitur <persName>Clonarion </persName>ita alloquens <persName>
-								leenamLeenam
+								Leenam
 							</persName> : <seg> καινὰ περὶ σοῦ ἀκούομεν ὡ μεγίλλα λέαινα <lb facs="#facs_2_tr_1_tl_110" n="N002" xml:id="facs_2_tr_1_tl_110"/>τὴν ἀσεβὴν μεγίλλαν τὴν πλουσῖαν ἐρᾷν σοῦ ὥσπερ ἄνδρα, καὶ συνεῖναι ὑμᾶς οὐκ'οἱδ᾽ ὅτι ποιουσας. Et paulo pοst, εἰ μή τις <lb facs="#facs_2_tr_1_tl_111" n="N003" xml:id="facs_2_tr_1_tl_111"/>ἑταιρίστρια τυγχάνει οὖσα. τοιαύτας γὰρ ἐν Λέσβῳ λέχουσι τὰς γυναίκας καὶ ἀρρενοπούς, ὑπὸ ἀνδρῶν μὲν οὐκ ἔθελούσας <lb facs="#facs_2_tr_1_tl_112" n="N004" xml:id="facs_2_tr_1_tl_112"/>αὐτὸ πάσχειν. γυναιξὶ δὲ αὐτὰς πλησιαζούσας ὥσπερ ἂνδρας. </seg>
         					 <persName>
-								
-									Horatius
-									Hor
-								.</persName>
+								Horatius.</persName>
          						<seg source="Hor.Epist.I19.28">
 								<ref>temperat alcei musa pede mascula <persName>Sappho</persName>
 								</ref>
@@ -3739,10 +3734,7 @@
 												</seg> Alibi. <seg>
 													<ref>Nota sit et <persName>Sappho</persName> quid enim lascivius illa</ref>
 												</seg>. <persName>
-													
-														Horatius
-														Hor.
-													
+													Horatius
 												</persName>
 							<seg>
 													<ref>vivuntque commissi calores Eolie fidibus
@@ -3755,7 +3747,7 @@
 						<head>239r.19/30</head>
 						<p facs="#facs_2_r_887">
 							<lb facs="#facs_2_l_823" n="N001" xml:id="facs_2_l_823"/>Alludit ad illud <persName>
-							hHoratii</persName> in carminibus: 
+							Horatii</persName> in carminibus: 
 							<seg source="Hor.Od.2.13.24-25">
 									<ref>et Eoliis fidibus querentem
         				    <lb facs="#facs_2_tr_1_tl_4" n="N002" xml:id="facs_2_tr_1_tl_4"/><persName>Sappho</persName> puellis de popularibus. Et te sonantem plenius aureo
@@ -3769,7 +3761,7 @@
 						<p>
 							<lb facs="#facs_2_l_15" n="N001" xml:id="facs_2_l_15"/>
 							<persName>
-								phoebusPhoebus
+								Phoebus
 							</persName>
 							<lb facs="#facs_2_l_22" n="N002" xml:id="facs_2_l_22"/>
 							<persName>Daphne</persName>
@@ -3847,7 +3839,7 @@
 					<head>239r.31.4a</head>
 						<p facs="#facs_2_r_1367">
 							<lb facs="#facs_2_l_824" n="N001" xml:id="facs_2_l_824"/>
-         						<persName>Max.Maximus Tyrios</persName> ἐν τῷ αὐτῷ λόγῳ <title>
+         						<persName>Maximus Tyrios</persName> ἐν τῷ αὐτῷ λόγῳ <title>
 								<ref target="https://wikidata.org/wiki/">περὶ τοῦ τίς ἢ</ref>
 								</title>
          						<lb facs="#facs_2_tr_1_tl_3" n="N002" xml:id="facs_2_tr_1_tl_3"/>
@@ -3990,7 +3982,7 @@
 						<p facs="#facs_2_r_2151">
 							<lb facs="#facs_2_l_2143" n="N001" xml:id="facs_2_l_2143"/>
          					<unclear>ut <persName>
-									pPlato</persName> in <title xml:id="Q555862">
+									Plato</persName> in <title xml:id="Q555862">
 									<ref target="https://wikidata.org/wiki/Q555862">
 										Phaedro</ref>
 								</title>
@@ -4199,7 +4191,7 @@
 					<head>239r.63.3</head>
 						<p facs="#facs_2_r_1940">
 							<lb facs="#facs_2_l_1939" n="N001" xml:id="facs_2_l_1939"/>ὁ <persName>
-								χΧάραξος</persName>
+								Χάραξος</persName>
 						</p>
 					</div>
 					<lb/>
@@ -4207,7 +4199,7 @@
 					<head>239r.63.5</head>
 						<p facs="#facs_2_r_269">
 							<lb facs="#facs_2_tr_1_tl_95" n="N001" xml:id="facs_2_tr_1_tl_95"/>Enargia | τῆς Δωρίχης ἢ <persName>
-								ρΡοδώπιδος</persName>
+								Ροδώπιδος</persName>
 						</p>
 					</div>
 					<lb/>
@@ -4306,7 +4298,7 @@
 					<head>239v.64</head>
 						<p facs="#facs_3_r_14">
 							<lb facs="#facs_3_tr_1_tl_39" n="N001" xml:id="facs_3_tr_1_tl_39"/>
-         					<persName>σΣτράβων</persName> ἐν <title>
+         					<persName>Σ<unclear>τρ</unclear>άβων</persName> ἐν <title>
 								<ref target="https://wikidata.org/wiki/">τῷ ἔπτα καὶ δεκάτῳ βιβλίῳ
 								</ref>
 							</title>
@@ -4370,7 +4362,7 @@
 					<head>239v.70.4</head>
 						<p facs="#facs_3_r_343">
 							<lb facs="#facs_3_tr_1_tl_22" n="N001" xml:id="facs_3_tr_1_tl_22"/>ἡ καλουμένη <persName>
-								κΚλεῖς</persName>
+								Κλεῖς</persName>
 						</p>
 					</div>
 					<lb/>
