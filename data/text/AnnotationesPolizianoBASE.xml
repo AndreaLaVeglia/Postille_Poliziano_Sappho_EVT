@@ -1702,9 +1702,7 @@
 						<p facs="#facs_1_r_1260">
 							<add><lb facs="#facs_1_l_663" n="N001" xml:id="facs_1_l_663" />περὶ τῶν</add>
 									<lb facs="#facs_1_l_137" n="N002" xml:id="facs_1_l_137" />- <persName ref="Q456649">Μάξιμοc ὁ <choice><orig>τ</orig><reg>Τ</reg></choice>ύριος </persName>ἐν τῷ· τις ἡ <persName ref="Q913">Σοκράτο<hi rend="superscript:true;">υς </hi></persName> ἐρωτική <lb facs="#facs_1_l_148" n="N003" xml:id="facs_1_l_148" /><seg source="urn_cts_greekLit_tlg0563.tlg001.1st1K-grc1_18.9.b-18.9.n">
-								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1:18.9.b-18.9.n">τὸ δὲ <persName>
-										<persName ref="Q201323"><choice><orig>ἀ</orig><reg>Ἀ</reg></choice>ρχιλόχου</persName>
-									</persName> ἔρωτα, ὑβριστή<choice><orig>σ</orig><reg>ς</reg></choice> γὰρ, χαὶρειν ἐῶ, ὀδὲ
+								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1:18.9.b-18.9.n">τὸ δὲ <persName ref="Q201323"><choice><orig>ἀ</orig><reg>Ἀ</reg></choice>ρχιλόχου</persName> ἔρωτα, ὑβριστή<choice><orig>σ</orig><reg>ς</reg></choice> γὰρ, χαὶρειν ἐῶ, ὀδὲ
 									<lb facs="#facs_1_l_155" n="N004" xml:id="facs_1_l_155" />τῆς <choice><orig>λ</orig><reg>Λ</reg></choice>εσβία<choice><orig>σ</orig><reg>ς</reg></choice>, ἥ τι χρὴ πρεσβύτερα τῖ<choice><orig>σ</orig><reg>ς</reg></choice> νέοις εἰκάσ<hi rend="superscript:true;">αι</hi>,
 									<lb facs="#facs_1_l_162" n="N005" xml:id="facs_1_l_162" />τί ἂν εἴη ἄλ<unclear>λ</unclear>ο ἢ αὐτὸ ἡ <persName>
 										<choice><orig>Cωκράτου</orig><reg>Σωκράτου</reg></choice>
@@ -1712,29 +1710,21 @@
 									<lb facs="#facs_1_l_169" n="N006" xml:id="facs_1_l_169" />κοῦσι γάρ μοι τὴν καθ’αὑτὸν ἑκάτερο<choice><orig>σ</orig><reg>ς</reg></choice> φιλίαν, ἡ μὲν
 									<lb facs="#facs_1_l_176" n="N007" xml:id="facs_1_l_176" />γυναικῶν, ὁ <unclear>δὲ</unclear> ἀρρένων, ἐπιτηδεῦσ<hi rend="superscript:true;">αι</hi>. καὶ γὰρ πολ
 									<lb facs="#facs_1_l_183" n="N008" xml:id="facs_1_l_183" />λῶν ἐρᾶν ἔλεγον, καὶ ὑπὸ πάντων ἁλίσκεσθαι τῶν
-									<lb facs="#facs_1_l_190" n="N009" xml:id="facs_1_l_190" />καλῶν· ὅ τι γὰρ ἐκείνωι <persName>
-										<persName ref="Q187982">Ἀλκιβιάδης</persName>
-									</persName> καὶ <choice><orig>χ</orig><reg>Χ</reg></choice>αρμίδης
+									<lb facs="#facs_1_l_190" n="N009" xml:id="facs_1_l_190" />καλῶν· ὅ τι γὰρ ἐκείνωι <persName ref="Q187982">Ἀλκιβιάδης</persName> καὶ <choice><orig>χ</orig><reg>Χ</reg></choice>αρμίδης
 									<lb facs="#facs_1_tr_1_tl_89" n="N010" xml:id="facs_1_tr_1_tl_89" />καὶ <persName>
 										<choice><orig>φ</orig><reg>Φ</reg></choice>αῖδρος
 									</persName>, τοῦτο τῇ <choice><orig>λ</orig><reg>Λ</reg></choice>εσβί<choice><orig><hi rend="superscript:true;">αι</hi></orig><reg>ᾳ</reg></choice> <persName>
 										<choice><orig>γ</orig><reg>Γ</reg></choice>ύριννα
 									</persName> καὶ <persName>
 										<choice><orig>ἀ</orig><reg>Ἀ</reg></choice>τθὶς
-									</persName>. <persName>
-										<persName><choice><orig>ἀ</orig><reg>Ἀ</reg></choice>νακτορί<hi rend="superscript:true;">α</hi></persName>
-									</persName> καὶ ὅτι περ <persName>
+									</persName>. <persName><choice><orig>ἀ</orig><reg>Ἀ</reg></choice>νακτορί<hi rend="superscript:true;">α</hi></persName> καὶ ὅτι περ <persName>
 										<choice><orig>σ</orig><reg>Σ</reg></choice>ωκράτει
 									</persName> οἱ ἀντίτεχνοι, <persName>
 										<choice><orig>πρόδικοσ</orig><reg>Πρόδικος</reg></choice>
 									</persName> καὶ
-									<lb facs="#facs_1_tr_1_tl_90" n="N011" xml:id="facs_1_tr_1_tl_90" /><persName>
-										<persName ref="Q179785"><choice><orig>γοργί<hi rend="superscript:true;">ας</hi></orig><reg>Γοργίας</reg></choice></persName>
-									</persName> καὶ <persName>
+									<lb facs="#facs_1_tr_1_tl_90" n="N011" xml:id="facs_1_tr_1_tl_90" /><persName ref="Q179785"><choice><orig>γοργί<hi rend="superscript:true;">ας</hi></orig><reg>Γοργίας</reg></choice></persName> καὶ <persName>
 										<choice><orig>θρασύμαχοσ</orig><reg>Θρασύμαχος</reg></choice>
-									</persName> καὶ <persName>
-										<persName><choice><orig>π</orig><reg>Π</reg></choice>ρωταγόρα<choice><orig>σ</orig><reg>ς</reg></choice></persName>
-									</persName>, τοῦτο τ<choice><orig>ῆ</orig><reg>ῇ</reg></choice> <persName>
+									</persName> καὶ <persName><choice><orig>π</orig><reg>Π</reg></choice>ρωταγόρα<choice><orig>σ</orig><reg>ς</reg></choice></persName>, τοῦτο τ<choice><orig>ῆ</orig><reg>ῇ</reg></choice> <persName>
 										<choice><orig>Ϲαπφοῖ</orig><reg>Σαπφοῖ</reg></choice>
 									</persName> <persName>
 										<choice><orig>γοργὼ</orig><reg>Γοργὼ</reg></choice>
@@ -3560,9 +3550,7 @@
 						<p facs="#facs_1_r_1260">
 							<add><lb facs="#facs_1_l_663" n="N001" xml:id="facs_1_l_663"/>περὶ τῶν</add>
 									<lb facs="#facs_1_l_137" n="N002" xml:id="facs_1_l_137"/>- <persName ref="Q456649">Μάξιμοc ὁ Τύριος </persName>ἐν τῷ· τις ἡ <persName ref="Q913">Σοκράτο<hi rend="superscript:true;">υς </hi></persName> ἐρωτική <lb facs="#facs_1_l_148" n="N003" xml:id="facs_1_l_148"/><seg source="urn_cts_greekLit_tlg0563.tlg001.1st1K-grc1_18.9.b-18.9.n">
-								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1:18.9.b-18.9.n">τὸ δὲ <persName>
-										<persName ref="Q201323">Ἀρχιλόχου</persName>
-									</persName> ἔρωτα, ὑβριστής γὰρ, χαὶρειν ἐῶ, ὀδὲ
+								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1:18.9.b-18.9.n">τὸ δὲ <persName ref="Q201323">Ἀρχιλόχου</persName> ἔρωτα, ὑβριστής γὰρ, χαὶρειν ἐῶ, ὀδὲ
 									<lb facs="#facs_1_l_155" n="N004" xml:id="facs_1_l_155"/>τῆς Λεσβίας, ἥ τι χρὴ πρεσβύτερα τῖς νέοις εἰκάσ<hi rend="superscript:true;">αι</hi>,
 									<lb facs="#facs_1_l_162" n="N005" xml:id="facs_1_l_162"/>τί ἂν εἴη ἄλ<unclear>λ</unclear>ο ἢ αὐτὸ ἡ <persName>
 										Σωκράτου
@@ -3570,29 +3558,21 @@
 									<lb facs="#facs_1_l_169" n="N006" xml:id="facs_1_l_169"/>κοῦσι γάρ μοι τὴν καθ’αὑτὸν ἑκάτερος φιλίαν, ἡ μὲν
 									<lb facs="#facs_1_l_176" n="N007" xml:id="facs_1_l_176"/>γυναικῶν, ὁ <unclear>δὲ</unclear> ἀρρένων, ἐπιτηδεῦσ<hi rend="superscript:true;">αι</hi>. καὶ γὰρ πολ
 									<lb facs="#facs_1_l_183" n="N008" xml:id="facs_1_l_183"/>λῶν ἐρᾶν ἔλεγον, καὶ ὑπὸ πάντων ἁλίσκεσθαι τῶν
-									<lb facs="#facs_1_l_190" n="N009" xml:id="facs_1_l_190"/>καλῶν· ὅ τι γὰρ ἐκείνωι <persName>
-										<persName ref="Q187982">Ἀλκιβιάδης</persName>
-									</persName> καὶ Χαρμίδης
+									<lb facs="#facs_1_l_190" n="N009" xml:id="facs_1_l_190"/>καλῶν· ὅ τι γὰρ ἐκείνωι <persName ref="Q187982">Ἀλκιβιάδης</persName> καὶ Χαρμίδης
 									<lb facs="#facs_1_tr_1_tl_89" n="N010" xml:id="facs_1_tr_1_tl_89"/>καὶ <persName>
 										Φαῖδρος
 									</persName>, τοῦτο τῇ Λεσβίᾳ <persName>
 										Γύριννα
 									</persName> καὶ <persName>
 										Ἀτθὶς
-									</persName>. <persName>
-										<persName>Ἀνακτορί<hi rend="superscript:true;">α</hi></persName>
-									</persName> καὶ ὅτι περ <persName>
+									</persName>. <persName>Ἀνακτορί<hi rend="superscript:true;">α</hi></persName> καὶ ὅτι περ <persName>
 										Σωκράτει
 									</persName> οἱ ἀντίτεχνοι, <persName>
 										Πρόδικος
 									</persName> καὶ
-									<lb facs="#facs_1_tr_1_tl_90" n="N011" xml:id="facs_1_tr_1_tl_90"/><persName>
-										<persName ref="Q179785">Γοργίας</persName>
-									</persName> καὶ <persName>
+									<lb facs="#facs_1_tr_1_tl_90" n="N011" xml:id="facs_1_tr_1_tl_90"/><persName ref="Q179785">Γοργίας</persName> καὶ <persName>
 										Θρασύμαχος
-									</persName> καὶ <persName>
-										<persName>Πρωταγόρας</persName>
-									</persName>, τοῦτο τῇ <persName>
+									</persName> καὶ <persName>Πρωταγόρας</persName>, τοῦτο τῇ <persName>
 										Σαπφοῖ
 									</persName> <persName>
 										Γοργὼ
