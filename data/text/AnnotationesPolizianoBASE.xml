@@ -2401,6 +2401,7 @@
 					</div>
 					<lb />
 					<div type="postilla" subtype="textusTypisImpressus" n="2" xml:id="typis2">
+						<head>Testo a stampa in 239r</head>
 						<p facs="#facs_2_r_2062">
 							<lb facs="#facs_2_tr_1_tl_13" n="N001" xml:id="facs_2_tr_1_tl_13" />
 							<seg source="Ov.Am.15.25-63">
@@ -2708,6 +2709,7 @@
 					</div>
 					<lb />
 					<div type="textusTypisImpressus" n="3" xml:id="typis3">
+						<head>Testo a stampa in 239v</head>
 						<p facs="#facs_3_tr_1">
 							<lb facs="#facs_3_l_41" n="N001" xml:id="facs_3_l_41" />
 							<seg source="Ov.Am.15.64-102">
@@ -3558,7 +3560,7 @@
 										Σωκράτους
 									 </persName>  τέχνη ἐρωτική; δο
 									<lb facs="#facs_1_l_169" n="N006" xml:id="facs_1_l_169"/>κοῦσι γάρ μοι τὴν καθ’αὑτὸν ἑκάτερος φιλίαν, ἡ μὲν
-									<lb facs="#facs_1_l_176" n="N007" xml:id="facs_1_l_176"/>γυναικῶν, ὁ <unclear>δὲ</unclear> ἀρρένων, ἐπιτηδεῦσ<hi rend="superscript:true;">αι</hi>. καὶ γὰρ πολ
+									<lb facs="#facs_1_l_176" n="N007" xml:id="facs_1_l_176"/>γυναικῶν, ὁ <unclear> δὲ </unclear> ἀρρένων, ἐπιτηδεῦσ<hi rend="superscript:true;">αι</hi>. καὶ γὰρ πολ
 									<lb facs="#facs_1_l_183" n="N008" xml:id="facs_1_l_183"/>λῶν ἐρᾶν ἔλεγον, καὶ ὑπὸ πάντων ἁλίσκεσθαι τῶν
 									<lb facs="#facs_1_l_190" n="N009" xml:id="facs_1_l_190"/>καλῶν· ὅ τι γὰρ ἐκείνωι <persName> 
 										Ἀλκιβιάδης
@@ -3592,7 +3594,7 @@
 									<lb facs="#facs_1_tr_1_tl_91" n="N012" xml:id="facs_1_tr_1_tl_91"/>νῦν δὲ ἐλέγχει, καὶ εἰρωνεύεται αὐτὰ ἐκεῖνα τὰ <persName> Σωκράτους </persName> · <seg source="Ion530a"><ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg027.perseus-grc2:530"> τὸν ἴωνα χαίρειν φησὶν ὁ <persName> 
 										Σωκράτης 
 									 </persName> </ref></seg><hi rend="underlined:true;">τὸν ἴωνα</hi>
-									<lb facs="#facs_1_tr_1_tl_92" n="N013" xml:id="facs_1_tr_1_tl_92"/><hi rend="underlined:true;">χαίρειν φησὶν</hi> ὁ <persName> 
+									<lb facs="#facs_1_tr_1_tl_92" n="N013" xml:id="facs_1_tr_1_tl_92"/><hi rend="underlined:true;">χαίρειν φησὶν </hi> ὁ <persName> 
 										Σωκράτης
 									 </persName> ·<seg source="Sapph155Neri"> πολλά μοι τὰν πολυανακτίδα χαίρειν</seg>, Σαπφὼ λέγει. οὐ προσιέναι φησὶν ὁ Σωκράτης
 									<lb facs="#facs_1_tr_1_tl_93" n="N014" xml:id="facs_1_tr_1_tl_93"/><persName> 
@@ -3905,7 +3907,7 @@
 							</seg>. <add rend="color:black">Ceterum ut libro nono de animalibus scribit</add>
 							<lb facs="#facs_2_tr_1_tl_88" n="N010" xml:id="facs_2_tr_1_tl_88"/>
 							<persName> Aristoteles </persName> 
-							<seg source="HA609a18-19Bekker"> dissidet turtur cum ave quom ipse πυραλλίδα<lb facs="#facs_2_l_23534" n="N011" xml:id="facs_2_l_23534"/>vocat, nos ignaviam appellamus, locus enim <unclear>pascendi et</unclear>
+							<seg source="HA609a18-19Bekker"> dissidet turtur cum ave quom ipse πυραλλίδα<lb facs="#facs_2_l_23534" n="N011" xml:id="facs_2_l_23534"/>vocat, nos ignaviam appellamus, locus enim <unclear> pascendi et</unclear>
 								<lb facs="#facs_2_l_23796" n="N012" xml:id="facs_2_l_23796"/>hisque idem eorum est. Item turtur cum luteis pugnat <lb facs="#facs_2_l_23827" n="N013" xml:id="facs_2_l_23827"/>occiditur ipse, quem χλωρίδα vocantur Graece </seg>. <persName> Aristoteles </persName> 
 							<seg source="HA609a25-26Bekker"> τον <lb facs="#facs_2_l_23966" n="N014" xml:id="facs_2_l_23966"/>κόττυφον </seg> amicum dicit esse turturi: nihilum autem de psitaco <lb facs="#facs_2_l_23977" n="N015" xml:id="facs_2_l_23977"/>dicit: <unclear>quem alibi <seg source="H.A.579b28Bekker"> ψιττακην </seg> fem</unclear><supplied reason="faded" source="apografo_Vettori">inino genere</supplied>
 							appellat <persName> Aristoteles </persName> 
@@ -3959,7 +3961,7 @@
 					<head>239r.40.4</head>
 						<p facs="#facs_2_r_926">
 							<lb facs="#facs_2_l_933" n="N001" xml:id="facs_2_l_933"/>
-        			 subaffirmatione </p>
+        			 sub affirmatione </p>
 					</div>
 					<lb/>
 					<div type="postilla" subtype="interlineare" n="239r.41.1" xml:id="cp239r411" rend="color:red" ana="#lociParalleli #exegesis">
@@ -4214,6 +4216,7 @@
 					</div>
 					<lb/>
 					<div type="postilla" subtype="textusTypisImpressus" n="2" xml:id="ctypis2">
+						<head>Testo a stampa in 239r</head>
 						<p facs="#facs_2_r_2062">
 							<lb facs="#facs_2_tr_1_tl_13" n="N001" xml:id="facs_2_tr_1_tl_13"/>
 							<seg source="Ov.Am.15.25-63">
@@ -4231,53 +4234,53 @@
 									libro• ΙΙ</ref>
 							</title>  • de Charaxo: et Thodopide: <lb facs="#facs_3_tr_1_tl_2" n="N002" xml:id="facs_3_tr_1_tl_2"/>~ ὁ Μυκερίνος  <lb facs="#facs_3_tr_1_tl_3" n="N003" xml:id="facs_3_tr_1_tl_3"/>
          <seg source="urn_cts_greekLit_tlg0016.tlg001.perseus-grc2_2.134.1-2.136.1">
-								 <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:2.134.1-2.136.1">πυραμῖδα δὲ οὖτος ἀπελίπετο πολλῶν ἐλάττω τοῦ πατρος εἴκοσι ποδῶν εἴκοσι ποδῶν καταδέουσαν κῶλον ἐκαστὸν τριῶν πλέθρων ἐούσηςHor.Epist.I19.28
+								 <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:2.134.1-2.136.1">πυραμῖδα δὲ οὖτος ἀπελίπετο πολλῶν ἐλάττω τοῦ πατρος εἴκοσι ποδῶν εἴκοσι ποδῶν καταδέουσαν κῶλον ἐκαστὸν τριῶν πλέθρων ἐούσης
          <lb facs="#facs_3_tr_1_tl_4" n="N004" xml:id="facs_3_tr_1_tl_4"/>
-         Hor.Epist.I19.28τετραγώνου λίθου δὲ ἐς τὸ ἠμισυ αἰθιοπικοῦ. τὴν δὴ μετεξέτεροί φασὶνφαὶν ἐλλήνων ῥωoδώπιος ἑταίρης γυναικὸς εἶναι, οὐκ ὅρθῶς λέγοντες. οὐδὲ  ὦν οὐδὲ εἰδότες μοι φαίνουται λέγειν οὕτοιHor.Epist.I19.28
+         τετραγώνου λίθου δὲ ἐς τὸ ἠμισυ αἰθιοπικοῦ. τὴν δὴ μετεξέτεροί φασὶνφαὶν ἐλλήνων ῥωoδώπιος ἑταίρης γυναικὸς εἶναι, οὐκ ὅρθῶς λέγοντες. οὐδὲ  ὦν οὐδὲ εἰδότες μοι φαίνουται λέγειν οὕτοι
          <lb facs="#facs_3_tr_1_tl_5" n="N005" xml:id="facs_3_tr_1_tl_5"/>
-         Hor.Epist.I19.28ἥτις ἦν ἡ ῥοδῶπις. οὐ γὰρ οἱ πυραμῖδα ἀνέθεσαν ποιήσασθαι τοιαύτην, ἐς τῆν, ταλάντων χιλιάδες ἀναρίθμητοι ὡς λόγῳ εἰπεῖν ἀνεσίμωνται πρὸς δὲ ὅτι κατὰ ἄμασιν βασιλεύονταHor.Epist.I19.28
+         ἥτις ἦν ἡ ῥοδῶπις. οὐ γὰρ οἱ πυραμῖδα ἀνέθεσαν ποιήσασθαι τοιαύτην, ἐς τῆν, ταλάντων χιλιάδες ἀναρίθμητοι ὡς λόγῳ εἰπεῖν ἀνεσίμωνται πρὸς δὲ ὅτι κατὰ ἄμασιν βασιλεύοντα
          <lb facs="#facs_3_tr_1_tl_6" n="N006" xml:id="facs_3_tr_1_tl_6"/>
-         Hor.Epist.I19.28ἦν ἀκμάζουσα ῥοδῶπις. ἀλλʼ οὐ κατα τοῦτον. ἕτεσι γὰρ κάρτα πολλοῖσι ὑστερον τῶν τὰς πυραμῖδας τουτῶν λειπομένη ἦν ροδῶπις, γενεὴν μὲν ἀπὸ θρήκης. δούλη δὲ ἦν ἰαδμονοςHor.Epist.I19.28
+         ἦν ἀκμάζουσα ῥοδῶπις. ἀλλʼ οὐ κατα τοῦτον. ἕτεσι γὰρ κάρτα πολλοῖσι ὑστερον τῶν τὰς πυραμῖδας τουτῶν λειπομένη ἦν ροδῶπις, γενεὴν μὲν ἀπὸ θρήκης. δούλη δὲ ἦν ἰαδμονος
          <lb facs="#facs_3_tr_1_tl_7" n="N007" xml:id="facs_3_tr_1_tl_7"/>
-         Hor.Epist.I19.28τοῦ ηφαιστοπολίος ἀνδρὸς Σαμίου σίνδουλος δὲ αἰσόπου τοῦ λογοποιου. καὶ γὰρ οὗτος ἰάδμονος εἰγένετο ὡς διέτεξε τῇδε οὐκ ἥκιστα. ἐπείτε γὰρ πολλάκις κηρυσσόντιων δελφῶν ἐκ θεοπρεπίουHor.Epist.I19.28
+         τοῦ ηφαιστοπολίος ἀνδρὸς Σαμίου σίνδουλος δὲ αἰσόπου τοῦ λογοποιου. καὶ γὰρ οὗτος ἰάδμονος εἰγένετο ὡς διέτεξε τῇδε οὐκ ἥκιστα. ἐπείτε γὰρ πολλάκις κηρυσσόντιων δελφῶν ἐκ θεοπρεπίου
          <lb facs="#facs_3_tr_1_tl_8" n="N008" xml:id="facs_3_tr_1_tl_8"/>
-         Hor.Epist.I19.28ὁς βούλοιτο ποινὴν τῆς αἰσώπου ψυχῆς ἀνελέσθαι ἄλλος μὲν οὐδεῖς ἐφάνη. ἰάδμονος δὲ παιδὸς. παῖς ἄλλος ιάδμων ἀνείλετο. οὕτω καὶ αἱσώπος ἰάδμονος ἐγένετο. ῥοδῶπις δὲ εἰς αἴγυπτονHor.Epist.I19.28
+         ὁς βούλοιτο ποινὴν τῆς αἰσώπου ψυχῆς ἀνελέσθαι ἄλλος μὲν οὐδεῖς ἐφάνη. ἰάδμονος δὲ παιδὸς. παῖς ἄλλος ιάδμων ἀνείλετο. οὕτω καὶ αἱσώπος ἰάδμονος ἐγένετο. ῥοδῶπις δὲ εἰς αἴγυπτον
          <lb facs="#facs_3_tr_1_tl_9" n="N009" xml:id="facs_3_tr_1_tl_9"/>
-         Hor.Epist.I19.28ἀπίκετο ξανθέω τοῦ Σαμίου κομίσαντος. ἀπικομένη δὲ κατ᾽ἐργασίην ἐλύθη χρημάτων μεγάλῶν ὑπ᾽ἀνδρὸς μιτυλαινέου χαράξου τοῦ σκαμανδρονύμου παιδὸς ἀδελφεὸσ δὲHor.Epist.I19.28
+         ἀπίκετο ξανθέω τοῦ Σαμίου κομίσαντος. ἀπικομένη δὲ κατ᾽ἐργασίην ἐλύθη χρημάτων μεγάλῶν ὑπ᾽ἀνδρὸς μιτυλαινέου χαράξου τοῦ σκαμανδρονύμου παιδὸς ἀδελφεὸσ δὲ
          <lb facs="#facs_3_tr_1_tl_10" n="N010" xml:id="facs_3_tr_1_tl_10"/>
-         Hor.Epist.I19.28σαπφοῦς τῆς μουσοποιοῦ. οὕτω δὴ ἡ ῥοδῶπις ἐλευθερῶθη, καὶ κατέμεινετε ἐν αἰγύπτῳ. &lt;g&gt;&lt;/g&gt; - καὶ κάρτα ἐπάφρόδίτος γενομένη· μεγαλα ἐκτήσατο χρήματα ὡς ἂν εἶναιHor.Epist.I19.28
+         σαπφοῦς τῆς μουσοποιοῦ. οὕτω δὴ ἡ ῥοδῶπις ἐλευθερῶθη, καὶ κατέμεινετε ἐν αἰγύπτῳ. &lt;g&gt;&lt;/g&gt; - καὶ κάρτα ἐπάφρόδίτος γενομένη· μεγαλα ἐκτήσατο χρήματα ὡς ἂν εἶναι
          <lb facs="#facs_3_l_46" n="N011" xml:id="facs_3_l_46"/>
-         Hor.Epist.I19.28ῥοδῶπιν, ἀτὰρ οὐκ ὡς γε ἐς πυραμῖδα τοιαύτην ἐξικέσθαι. τῆς γάρ τὴνHor.Epist.I19.28
+         ῥοδῶπιν, ἀτὰρ οὐκ ὡς γε ἐς πυραμῖδα τοιαύτην ἐξικέσθαι. τῆς γάρ τὴν
          <lb facs="#facs_3_tr_1_tl_13" n="N012" xml:id="facs_3_tr_1_tl_13"/>
-         Hor.Epist.I19.28δεκάτην τῶν χρημάτων ἱδέσθαι ἐστι καὶ ἔτι καὶ ἐς τόδε παντὶ τῷ βου-Hor.Epist.I19.28
+         δεκάτην τῶν χρημάτων ἱδέσθαι ἐστι καὶ ἔτι καὶ ἐς τόδε παντὶ τῷ βου-
          <lb facs="#facs_3_l_1" n="N013" xml:id="facs_3_l_1"/>
-         Hor.Epist.I19.28λομένῳ, οὐδὲν δε μέγὰλα οἱ χρήματα ἀναθεῖναι. ἐπεθύμησε γὰρ ῥο-Hor.Epist.I19.28
+         λομένῳ, οὐδὲν δε μέγὰλα οἱ χρήματα ἀναθεῖναι. ἐπεθύμησε γὰρ ῥο-
          <lb facs="#facs_3_l_3" n="N014" xml:id="facs_3_l_3"/>
-         Hor.Epist.I19.28δῶπις μνημηιον αὐτῆς ἐν τῇ ἐλλάδι καταλιπεσθαι ποιήμα ποιηHor.Epist.I19.28
+         δῶπις μνημηιον αὐτῆς ἐν τῇ ἐλλάδι καταλιπεσθαι ποιήμα ποιη
          <lb facs="#facs_3_l_5" n="N015" xml:id="facs_3_l_5"/>
-         Hor.Epist.I19.28σαμένῃ τοῦτο τὸ μὴ τυγχάνει ἄλλῳ ἐξευρημένον καὶ ἀνακείμενον ἐν ἴρῳ, τοῦτοHor.Epist.I19.28
+         σαμένῃ τοῦτο τὸ μὴ τυγχάνει ἄλλῳ ἐξευρημένον καὶ ἀνακείμενον ἐν ἴρῳ, τοῦτο
          <lb facs="#facs_3_tr_1_tl_17" n="N016" xml:id="facs_3_tr_1_tl_17"/>
-         Hor.Epist.I19.28ἀναθεῖναι ἐς δελφοὺς μνημόσυνον ἐωυτῆς. τῆς ὧν δεκάτης τῶν χρημάτωνHor.Epist.I19.28
+         ἀναθεῖναι ἐς δελφοὺς μνημόσυνον ἐωυτῆς. τῆς ὧν δεκάτης τῶν χρημάτων
          <lb facs="#facs_3_l_7" n="N017" xml:id="facs_3_l_7"/>
-         Hor.Epist.I19.28ποιησαμένη ὀβέλους βουπόρους πόλλος σίδηρεους, ὅσον ἐνεχώρεε ἥδεHor.Epist.I19.28
+         ποιησαμένη ὀβέλους βουπόρους πόλλος σίδηρεους, ὅσον ἐνεχώρεε ἥδε
          <lb facs="#facs_3_l_9" n="N018" xml:id="facs_3_l_9"/>
-         Hor.Epist.I19.28κάτη οἱ ἀπέπεμπε ἐς δελφούς. οἱ καὶ νῦν ετι συννενέαται, ὅπισHor.Epist.I19.28
+         κάτη οἱ ἀπέπεμπε ἐς δελφούς. οἱ καὶ νῦν ετι συννενέαται, ὅπισ
          <lb facs="#facs_3_tr_1_tl_24" n="N019" xml:id="facs_3_tr_1_tl_24"/>
-         Hor.Epist.I19.28θε μὲν τοῦ βωμοῦ τὸν χῖοι ἀνεθεσαν, ἀντίον δὲ αὐτοῦ τοῦ νηοῦ. φιλέουσιHor.Epist.I19.28
+         θε μὲν τοῦ βωμοῦ τὸν χῖοι ἀνεθεσαν, ἀντίον δὲ αὐτοῦ τοῦ νηοῦ. φιλέουσι
          <lb facs="#facs_3_tr_1_tl_25" n="N020" xml:id="facs_3_tr_1_tl_25"/>
-         Hor.Epist.I19.28δὲ κως ἐν τῇ ναυκράτι ἐπαφρόδιτοι γίνεσθαι αἱ ἑταῖραι τοῦτο μὲν γὰρHor.Epist.I19.28
+         δὲ κως ἐν τῇ ναυκράτι ἐπαφρόδιτοι γίνεσθαι αἱ ἑταῖραι τοῦτο μὲν γὰρ
          <lb facs="#facs_3_l_137" n="N021" xml:id="facs_3_l_137"/>
-         Hor.Epist.I19.28αὐτή τῆς περὶ λέγεται ὅδελόγος. οὕτω δὴ κλινὴ ἐγένετο ὡς καὶ οἱ πάντεσHor.Epist.I19.28
+         αὐτή τῆς περὶ λέγεται ὅδελόγος. οὕτω δὴ κλινὴ ἐγένετο ὡς καὶ οἱ πάντεσ
          <lb facs="#facs_3_tr_1_tl_28" n="N022" xml:id="facs_3_tr_1_tl_28"/>
-         Hor.Epist.I19.28ἐλληνεσ ῥοδώπιοι τὸ οὔνομα ἐξέμαθον, τοῦτο δὲ ὕστερον ταύτης τῇ οὕνομαHor.Epist.I19.28
+         ἐλληνεσ ῥοδώπιοι τὸ οὔνομα ἐξέμαθον, τοῦτο δὲ ὕστερον ταύτης τῇ οὕνομα
          <lb facs="#facs_3_tr_1_tl_32" n="N023" xml:id="facs_3_tr_1_tl_32"/>
-         Hor.Epist.I19.28ἦν ἀρχιδίκη ἀοίδ*ιμος ἀνὰ τὴν ἐλλάδα ἐγένετο· ἦσσον δὲ τῆς ἐτέρης περιHor.Epist.I19.28
+         ἦν ἀρχιδίκη ἀοίδ*ιμος ἀνὰ τὴν ἐλλάδα ἐγένετο· ἦσσον δὲ τῆς ἐτέρης περι
          <lb facs="#facs_3_tr_1_tl_33" n="N024" xml:id="facs_3_tr_1_tl_33"/>
-         Hor.Epist.I19.28λεσχήνευτος· χαραξος δὲ ὡς λυσάμενος ῥοδῶπιν ἀπενόστησενHor.Epist.I19.28
+         λεσχήνευτος· χαραξος δὲ ὡς λυσάμενος ῥοδῶπιν ἀπενόστησεν
          <lb facs="#facs_3_l_13" n="N025" xml:id="facs_3_l_13"/>
-         Hor.Epist.I19.28ὡς μιτυλήνην ἐν μέλει Σαπφὼ πόλλα κατεκερτόμησέσέHor.Epist.I19.28
+         ὡς μιτυλήνην ἐν μέλει Σαπφὼ πόλλα κατεκερτόμησέσέ
          <lb facs="#facs_3_tr_1_tl_37" n="N026" xml:id="facs_3_tr_1_tl_37"/>
-         Hor.Epist.I19.28μιν. ῥοδώπιος μέν νῦν περὶ πεπαυμαι.</ref>
+         μιν. ῥοδώπιος μέν νῦν περὶ πεπαυμαι.</ref>
 							</seg>
 						</p>
 					</div>
@@ -4499,6 +4502,7 @@
 					</div>
 					<lb/>
 					<div type="textusTypisImpressus" n="3" xml:id="ctypis3">
+						<head>Testo a stampa in 239v</head>
 						<p facs="#facs_3_tr_1">
 							<lb facs="#facs_3_l_41" n="N001" xml:id="facs_3_l_41"/>
 							<seg source="Ov.Am.15.64-102">

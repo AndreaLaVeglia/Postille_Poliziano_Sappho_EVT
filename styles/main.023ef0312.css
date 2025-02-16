@@ -5213,7 +5213,7 @@ span.quote {
 div.hotspot {
     filter: alpha(opacity=50);
     border: 1px solid #4c2f2f;
-    background-color: #9c4837;
+    background-color: green;
     opacity: .5
 }
 
