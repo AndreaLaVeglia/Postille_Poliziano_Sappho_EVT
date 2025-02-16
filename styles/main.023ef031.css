@@ -1965,6 +1965,10 @@ button-switch.smaller .buttonSwitch {
     display: none
 }
 
+.criticalEdition .choice .reg:after, .criticalEdition .choice .reg:before {
+    content: " "
+}
+
 sup.iconbis-evt_quote-left {
     font-size: .5em;
     color: #263238;
