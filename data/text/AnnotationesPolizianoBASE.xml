@@ -428,7 +428,6 @@
 				</listPlace>
 			</sourceDesc>
 		</fileDesc>
-		<!--   ########## ProfileDesc ##########   -->
 		<profileDesc>
 			<langUsage>
 				<language ident="lat">Latino</language>
@@ -462,7 +461,7 @@
 					</category>
 				</taxonomy>
 			</classDecl>
-			<!--   ########## Dichiarazione dei segni di rimango usati da Poliziano ##########   -->
+			<!--   ########## Dichiarazione dei segni di rimando usati da Poliziano ##########   -->
 			<charDecl>
 				<glyph xml:id="lunetta">
 					<localProp name="Name" value="lunetta con due puntini" />
@@ -992,10 +991,10 @@
 							<monogr>
 								<title level="m">Angelo Poliziano. Commento inedito alle Selve di Stazio</title>
 								<idno type="callNumber">851.2 POLI 7(1)</idno>
-								<editor>
+								<author>
 									<forename>Lucia</forename>
 									<surname>Cesarini Martinelli</surname>
-								</editor>
+								</author>
 								<imprint>
 									<pubPlace>Firenze</pubPlace>
 									<publisher>Sansoni</publisher>
@@ -1042,10 +1041,10 @@
 								<title type="short">Appunti per un corso sull'Odissea</title>
 								<idno type="ISBN">978-88-6274-196-5</idno>
 								<idno type="callNumber">PA4037.A2 P65 2010</idno>
-								<editor>
+								<author>
 									<forename>Luigi</forename>
 									<surname>Silvano</surname>
-								</editor>
+								</author>
 								<imprint>
 									<pubPlace>Alessandria</pubPlace>
 									<publisher>Edizioni dell'Orso</publisher>
@@ -1062,10 +1061,10 @@
 								<title level="m">Angelo Poliziano. Commento inedito ai Fasti di Ovidio</title>
 								<idno type="ISBN">978-88-222-3878-8</idno>
 								<idno type="callNumber">PA6519.F9 P65 1991</idno>
-								<editor>
+								<author>
 									<forename>Francesco</forename>
 									<surname>Lo Monaco</surname>
-								</editor>
+								</author>
 								<imprint>
 									<pubPlace>Firenze</pubPlace>
 									<publisher>L.S. Olschki</publisher>
@@ -1081,10 +1080,10 @@
 							<monogr>
 								<title level="m">Angelo Poliziano. Commento inedito alle Bucoliche di Virgilio</title>
 								<idno type="ISBN">978-88-222-6941-6</idno>
-								<editor>
+								<author>
 									<forename>Lorenzo</forename>
 									<surname>Vespoli</surname>
-								</editor>
+								</author>
 								<imprint>
 									<pubPlace>Firenze</pubPlace>
 									<publisher>Leo S. Olschki</publisher>
@@ -4240,7 +4239,7 @@
          <lb facs="#facs_3_tr_1_tl_5" n="N005" xml:id="facs_3_tr_1_tl_5"/>
          ἥτις ἦν ἡ ῥοδῶπις. οὐ γὰρ οἱ πυραμῖδα ἀνέθεσαν ποιήσασθαι τοιαύτην, ἐς τῆν, ταλάντων χιλιάδες ἀναρίθμητοι ὡς λόγῳ εἰπεῖν ἀνεσίμωνται πρὸς δὲ ὅτι κατὰ ἄμασιν βασιλεύοντα
          <lb facs="#facs_3_tr_1_tl_6" n="N006" xml:id="facs_3_tr_1_tl_6"/>
-         ἦν ἀκμάζουσα ῥοδῶπις. ἀλλʼ οὐ κατα τοῦτον. ἕτεσι γὰρ κάρτα πολλοῖσι ὑστερον τῶν τὰς πυραμῖδας τουτῶν λειπομένη ἦν ροδῶπις, γενεὴν μὲν ἀπὸ θρήκης. δούλη δὲ ἦν ἰαδμονος
+         ἦν ἀκμάζουσα ῥοδῶπις. ἀλλʼ οὐ κατα τοῦτον. ἕτεσι γὰρ κάρτα πολλοῖσι ὑστερον τῶν τὰς πυραμῖδας τουτῶν λειπομένη ἦν ροδῶπις, γενεὴν μὲν ἀπὸ θρήκης. δούλη δὲ ἦν Ἰάδμονος
          <lb facs="#facs_3_tr_1_tl_7" n="N007" xml:id="facs_3_tr_1_tl_7"/>
          τοῦ ηφαιστοπολίος ἀνδρὸς Σαμίου σίνδουλος δὲ αἰσόπου τοῦ λογοποιου. καὶ γὰρ οὗτος ἰάδμονος εἰγένετο ὡς διέτεξε τῇδε οὐκ ἥκιστα. ἐπείτε γὰρ πολλάκις κηρυσσόντιων δελφῶν ἐκ θεοπρεπίου
          <lb facs="#facs_3_tr_1_tl_8" n="N008" xml:id="facs_3_tr_1_tl_8"/>
