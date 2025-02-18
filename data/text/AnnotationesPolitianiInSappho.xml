@@ -2106,15 +2106,15 @@
          					<seg source="urn_cts_greekLit_tlg0613.tlg001.opp-grc2_140">
 								<ref target="https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/1247835/rec/1">αἱ δὲ ἀπὸ τῶν σχημάτων  χάριτες δῆλαι εἰσὶ καὶ πλεῖσται
 								<lb facs="#facs_2_tr_1_tl_35" n="N003" xml:id="facs_2_tr_1_tl_35" />
-								παρὰ Σαπφοῖ. οἶον ἐκ τῆς ἀναδιπλώσεως. ποῦ
+								παρὰ Σαπφοῖ. οἶον ἐκ τῆ<choice><orig>σ</orig><reg>ς</reg></choice> ἀναδιπλώσεως. ποῦ
 								<lb facs="#facs_2_tr_1_tl_37" n="N004" xml:id="facs_2_tr_1_tl_37" />
-								νύμφη πρὸς τὴν παρθενίαν φησὶ παρθενία παρ
+								νύμφη πρὸς τὴν παρθενίαν φησὶ <seg source="SapphNeri114">παρθενία παρ
 								<lb facs="#facs_2_tr_1_tl_39" n="N005" xml:id="facs_2_tr_1_tl_39" />
-								θενια, ποῖ με λιποῦσα οἴχη. ἡδὲ ἀποκρίνεται
+								θενια, ποῖ με λιποῦσα οἴχη</seg>. ἡδὲ ἀποκρίνεται
 								<lb facs="#facs_2_tr_1_tl_41" n="N006" xml:id="facs_2_tr_1_tl_41" />
-								πρὸς αὐτὴν. τῷ αὐτῷ σχήματι: οὐκέτι ἥξω,
+								πρὸς αὐτὴν. τῷ αὐτῷ σχήματι: <seg source="SapphNeri114">οὐκέτι ἥξω,
 								<lb facs="#facs_2_tr_1_tl_43" n="N007" xml:id="facs_2_tr_1_tl_43" />
-								πρὸς σέ οὐκὲτι ἥξω. πλείων γὰρ χάρις ἐκ
+								πρὸς σέ οὐκὲτι ἥξω</seg>. πλείων γὰρ χάρις ἐκ
 								<lb facs="#facs_2_tr_1_tl_45" n="N008" xml:id="facs_2_tr_1_tl_45" />
 								φαίνεται ἢ καίπερ ἅπαξ ἐλέχθη καὶ ἄνευ τοῦ
 								<lb facs="#facs_2_tr_1_tl_47" n="N009" xml:id="facs_2_tr_1_tl_47" />
@@ -3139,6 +3139,13 @@
 								<citedRange>140</citedRange>
 							</bibl>
 						</cit>
+						<cit xml:id="SapphNeri114">
+							<quote>(νύμφη) παρθενία, παρθενία, ποῖ με λίποιϲ’ ἀ &lt;π&gt;οίχηι;/ (παρθενία) †οὐκέτι ἤξω πρὸϲ ϲέ, οὐκέτι ἤξω†</quote>
+							<bibl>
+								<author>Sapph.</author>
+								<citedRange>114 Neri</citedRange>
+							</bibl>
+						</cit>
 						<cit xml:id="urn_cts_greekLit_tlg0086.tlg034.perseus-grc2_15.4">
 							<quote>ἔστιν γὰρ ἀνδρείαν μὲν τὸ ἦθος, ἀλλ’ οὐχ ἁρμόττον γυναικὶ οὕτως ἀνδρείαν ἢ δεινὴν εἶναι. τρίτον δὲ τὸ ὅμοιον. τοῦτο γὰρ ἕτερον τοῦ χρηστὸν τὸ ἦθος καὶ ἁρμόττον ποιῆσαι ὡς προείρηται. τέταρτον δὲ τὸ ὁμαλόν.</quote>
 							<bibl>
@@ -3939,15 +3946,15 @@
          					<seg source="urn_cts_greekLit_tlg0613.tlg001.opp-grc2_140">
 								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0613.tlg001.perseus-grc2:3.140">αἱ δὲ ἀπὸ τῶν σχημάτων  χάριτες δῆλαι εἰσὶ καὶ πλεῖσται
 								<lb facs="#facs_2_tr_1_tl_35" n="N003" xml:id="facs_2_tr_1_tl_35"/>
-								παρὰ Σαπφοῖ. οἶον ἐκ τῆ<choice><orig>σ</orig><reg>ς</reg></choice> ἀναδιπλώσεως. ποῦ
-								<lb facs="#facs_2_tr_1_tl_37" n="N004" xml:id="facs_2_tr_1_tl_37"/>
-								νύμφη πρὸς τὴν παρθενίαν φησὶ παρθενία παρ
-								<lb facs="#facs_2_tr_1_tl_39" n="N005" xml:id="facs_2_tr_1_tl_39"/>
-								θενια, ποῖ με λιποῦσα οἴχη. ἡδὲ ἀποκρίνεται
-								<lb facs="#facs_2_tr_1_tl_41" n="N006" xml:id="facs_2_tr_1_tl_41"/>
-								πρὸς αὐτὴν. τῷ αὐτῷ σχήματι: οὐκέτι ἥξω,
-								<lb facs="#facs_2_tr_1_tl_43" n="N007" xml:id="facs_2_tr_1_tl_43"/>
-								πρὸς σέ οὐκὲτι ἥξω. πλείων γὰρ χάρις ἐκ
+								παρὰ Σαπφοῖ. οἶον ἐκ τῆς ἀναδιπλώσεως. ποῦ
+								<lb facs="#facs_2_tr_1_tl_37" n="N004" xml:id="facs_2_tr_1_tl_37" />
+								νύμφη πρὸς τὴν παρθενίαν φησὶ <seg source="SapphNeri114">παρθενία παρ
+								<lb facs="#facs_2_tr_1_tl_39" n="N005" xml:id="facs_2_tr_1_tl_39" />
+								θενια, ποῖ με λιποῦσα οἴχη</seg>. ἡδὲ ἀποκρίνεται
+								<lb facs="#facs_2_tr_1_tl_41" n="N006" xml:id="facs_2_tr_1_tl_41" />
+								πρὸς αὐτὴν. τῷ αὐτῷ σχήματι: <seg source="SapphNeri114">οὐκέτι ἥξω,
+								<lb facs="#facs_2_tr_1_tl_43" n="N007" xml:id="facs_2_tr_1_tl_43" />
+								πρὸς σέ οὐκὲτι ἥξω</seg>. πλείων γὰρ χάρις ἐκ
 								<lb facs="#facs_2_tr_1_tl_45" n="N008" xml:id="facs_2_tr_1_tl_45"/>
 								φαίνεται ἢ καίπερ ἅπαξ ἐλέχθη καὶ ἄνευ τοῦ
 								<lb facs="#facs_2_tr_1_tl_47" n="N009" xml:id="facs_2_tr_1_tl_47"/>
