@@ -1700,12 +1700,10 @@
 						<head>238v.17b</head>
 						<p facs="#facs_1_r_1260">
 							<add><lb facs="#facs_1_l_663" n="N001" xml:id="facs_1_l_663" />περὶ τῶν</add>
-									<lb facs="#facs_1_l_137" n="N002" xml:id="facs_1_l_137" />- <persName ref="Q456649">Μάξιμοc ὁ <choice><orig>τ</orig><reg>Τ</reg></choice>ύριος </persName>ἐν τῷ· τις ἡ <persName ref="Q913">Σοκράτο<hi rend="superscript:true;">υς </hi></persName> ἐρωτική <lb facs="#facs_1_l_148" n="N003" xml:id="facs_1_l_148" /><seg source="urn_cts_greekLit_tlg0563.tlg001.1st1K-grc1_18.9.b-18.9.n">
-								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1:18.9.b-18.9.n">τὸ δὲ <persName ref="Q201323"><choice><orig>ἀ</orig><reg>Ἀ</reg></choice>ρχιλόχου</persName> ἔρωτα, ὑβριστή<choice><orig>σ</orig><reg>ς</reg></choice> γὰρ, χαὶρειν ἐῶ, ὀδὲ
-									<lb facs="#facs_1_l_155" n="N004" xml:id="facs_1_l_155" />τῆς <choice><orig>λ</orig><reg>Λ</reg></choice>εσβία<choice><orig>σ</orig><reg>ς</reg></choice>, ἥ τι χρὴ πρεσβύτερα τῖ<choice><orig>σ</orig><reg>ς</reg></choice> νέοις εἰκάσ<hi rend="superscript:true;">αι</hi>,
-									<lb facs="#facs_1_l_162" n="N005" xml:id="facs_1_l_162" />τί ἂν εἴη ἄλ<unclear>λ</unclear>ο ἢ αὐτὸ ἡ <persName>
-										<choice><orig>Cωκράτου</orig><reg>Σωκράτου</reg></choice>
-									</persName>ς τέχνη ἐρωτική; δο
+									<lb facs="#facs_1_l_137" n="N002" xml:id="facs_1_l_137" />- <persName ref="Q456649">Μάξιμος ὁ <choice><orig>τ</orig><reg>Τ</reg></choice>ύριος </persName>ἐν τῷ· τις ἡ <persName ref="Q913">Σοκράτο<hi rend="superscript:true;">υς </hi></persName> ἐρωτική <lb facs="#facs_1_l_148" n="N003" xml:id="facs_1_l_148" /><seg source="urn_cts_greekLit_tlg0563.tlg001.1st1K-grc1_18.9.b-18.9.n">
+								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1:18.9.b-18.9.n">τὸ δὲ <persName ref="Q201323"><choice><orig>ἀ</orig><reg>Ἀ</reg></choice>ρχιλόχου</persName> ἔρωτα, ὑβριστὴ<choice><orig>σ</orig><reg>ς</reg></choice> γάρ, χαίρειν ἐῶ, ὀδὲ
+									<lb facs="#facs_1_l_155" n="N004" xml:id="facs_1_l_155" />τῆς <choice><orig>λ</orig><reg>Λ</reg></choice>εσβία<choice><orig>σ</orig><reg>ς</reg></choice>, ἥ τι χρὴ πρεσβύτερα τοῖ<choice><orig>σ</orig><reg>ς</reg></choice> νέοις εἰκάσ<hi rend="superscript:true;">αι</hi>,
+									<lb facs="#facs_1_l_162" n="N005" xml:id="facs_1_l_162" />τί ἂν εἴη ἄλ<unclear>λ</unclear>ο ἢ αὐτὸ ἡ <persName><choice><orig>C</orig><reg>Σ</reg></choice>ωκράτους</persName> τέχνη ἐρωτική; δο
 									<lb facs="#facs_1_l_169" n="N006" xml:id="facs_1_l_169" />κοῦσι γάρ μοι τὴν καθ’αὑτὸν ἑκάτερο<choice><orig>σ</orig><reg>ς</reg></choice> φιλίαν, ἡ μὲν
 									<lb facs="#facs_1_l_176" n="N007" xml:id="facs_1_l_176" />γυναικῶν, ὁ <unclear>δὲ</unclear> ἀρρένων, ἐπιτηδεῦσ<hi rend="superscript:true;">αι</hi>. καὶ γὰρ πολ
 									<lb facs="#facs_1_l_183" n="N008" xml:id="facs_1_l_183" />λῶν ἐρᾶν ἔλεγον, καὶ ὑπὸ πάντων ἁλίσκεσθαι τῶν
@@ -3557,11 +3555,11 @@
 						<head>238v.17b</head>
 						<p facs="#facs_1_r_1260">
 							<add><lb facs="#facs_1_l_663" n="N001" xml:id="facs_1_l_663"/>περὶ τῶν</add>
-									<lb facs="#facs_1_l_137" n="N002" xml:id="facs_1_l_137"/>- <persName> Μάξιμοc ὁ Τύριος  </persName> ἐν τῷ· τις ἡ <persName> Σοκράτο<hi rend="superscript:true;">υς </hi> </persName>  ἐρωτική <lb facs="#facs_1_l_148" n="N003" xml:id="facs_1_l_148"/><seg source="urn_cts_greekLit_tlg0563.tlg001.1st1K-grc1_18.9.b-18.9.n">
+									<lb facs="#facs_1_l_137" n="N002" xml:id="facs_1_l_137"/>- <persName> Μάξιμος ὁ Τύριος  </persName> ἐν τῷ· τις ἡ <persName> Σοκράτο<hi rend="superscript:true;">υς </hi> </persName>  ἐρωτική <lb facs="#facs_1_l_148" n="N003" xml:id="facs_1_l_148"/><seg source="urn_cts_greekLit_tlg0563.tlg001.1st1K-grc1_18.9.b-18.9.n">
 								<ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0563.tlg001.1st1K-grc1:18.9.b-18.9.n">τὸ δὲ <persName> 
 										Ἀρχιλόχου
-									 </persName>  ἔρωτα, ὑβριστής γὰρ, χαὶρειν ἐῶ, ὀδὲ
-									<lb facs="#facs_1_l_155" n="N004" xml:id="facs_1_l_155"/>τῆς Λεσβίας, ἥ τι χρὴ πρεσβύτερα τῖς νέοις εἰκάσ<hi rend="superscript:true;">αι</hi>,
+									 </persName>  ἔρωτα, ὑβριστὴς γάρ, χαίρειν ἐῶ, ὀδὲ
+									<lb facs="#facs_1_l_155" n="N004" xml:id="facs_1_l_155"/>τῆς Λεσβίας, ἥ τι χρὴ πρεσβύτερα τοῖς νέοις εἰκάσ<hi rend="superscript:true;">αι</hi>,
 									<lb facs="#facs_1_l_162" n="N005" xml:id="facs_1_l_162"/>τί ἂν εἴη ἄλ<unclear>λ</unclear>ο ἢ αὐτὸ ἡ <persName> 
 										Σωκράτους
 									 </persName>  τέχνη ἐρωτική; δο
