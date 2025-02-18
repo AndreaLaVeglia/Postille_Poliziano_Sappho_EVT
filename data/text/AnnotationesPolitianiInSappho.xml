@@ -145,9 +145,9 @@
 							<ref target="https://wikidata.org/wiki/Q10468">Cepheus</ref>
 						</persName>
 					</person>
-					<person xml:id="Q105747223">
+					<person xml:id="Q26204">
 						<persName xml:lang="lat">
-							<ref target="https://wikidata.org/wiki/Q105747223">Dionysus</ref>
+							<ref target="https://wikidata.org/wiki/Q26204">Dionysus</ref>
 						</persName>
 					</person>
 					<person xml:id="Q109598">
@@ -2100,7 +2100,7 @@
 					<head>239r.40</head>
 						<p facs="#facs_2_r_1485">
 							<lb facs="#facs_2_tr_1_tl_31" n="N001" xml:id="facs_2_tr_1_tl_31" />
-							<persName ref="#Q105747223">Dionysus</persName> ἐν τῷ <title xml:id="Q131412205">
+							<persName ref="#Q26204">Dionysus</persName> ἐν τῷ <title xml:id="Q131412205">
 								<ref target="https://wikidata.org/wiki/Q131412205">περὶ ἑρμηνείας</ref>
 							</title>: <lb facs="#facs_2_tr_1_tl_33" n="N002" xml:id="facs_2_tr_1_tl_33" />
          					<seg source="urn_cts_greekLit_tlg0613.tlg001.opp-grc2_140">
