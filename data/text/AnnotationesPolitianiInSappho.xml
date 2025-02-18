@@ -2075,7 +2075,7 @@
 							<persName ref="Q868">Aristoteles</persName>
 							<seg source="HA609a18-19Bekker"> dissidet turtur cum ave quom ipse πυραλλίδα<lb facs="#facs_2_l_23534" n="N011" xml:id="facs_2_l_23534" />vocat, nos ignaviam appellamus, locus enim <unclear>pascendi et</unclear>
 								<lb facs="#facs_2_l_23796" n="N012" xml:id="facs_2_l_23796" />hisque idem eorum est. Item turtur cum luteis pugnat <lb facs="#facs_2_l_23827" n="N013" xml:id="facs_2_l_23827" />occiditur ipse, quem χλωρίδα vocantur Graece </seg>. <persName ref="Q868">Aristoteles</persName>
-							<seg source="HA609a25-26Bekker"> τον <lb facs="#facs_2_l_23966" n="N014" xml:id="facs_2_l_23966" />κόττυφον </seg> amicum dicit esse turturi: nihilum autem de psitaco <lb facs="#facs_2_l_23977" n="N015" xml:id="facs_2_l_23977" />dicit: <unclear>quem alibi <seg source="H.A.579b28Bekker"> ψιττακην </seg> fem</unclear><supplied reason="faded" source="apografo_Vettori">inino genere</supplied>
+							<seg source="HA609a25-26Bekker"> τον <lb facs="#facs_2_l_23966" n="N014" xml:id="facs_2_l_23966" />κόττυφον </seg> amicum dicit esse turturi: nihilum autem de psitaco <lb facs="#facs_2_l_23977" n="N015" xml:id="facs_2_l_23977" />dicit: <unclear>quem alibi <seg source="H.A.579b28Bekker"> ψιττάκην </seg> fem</unclear><supplied reason="faded" source="apografo_Vettori">inino genere</supplied>
 							<choice><expan>appellat</expan><abbr>applt</abbr></choice> <persName ref="Q868">Aristoteles</persName>
 						</p>
 					</div>
