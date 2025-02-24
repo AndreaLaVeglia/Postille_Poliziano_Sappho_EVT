@@ -2098,6 +2098,9 @@
 					<head>239r.40</head>
 						<p facs="#facs_2_r_1485">
 							<lb facs="#facs_2_tr_1_tl_31" n="N001" xml:id="facs_2_tr_1_tl_31" />
+							<metamark target="#w238v.19.6" xml:id="indexMark239r.40">
+									<g ref="#barraobliqua" />
+							</metamark> 
 							<persName ref="#Q26204">Dionysus</persName> ἐν τῷ <title xml:id="Q131412205">
 								<ref target="https://wikidata.org/wiki/Q131412205">περὶ ἑρμηνείας</ref>
 							</title>: <lb facs="#facs_2_tr_1_tl_33" n="N002" xml:id="facs_2_tr_1_tl_33" />

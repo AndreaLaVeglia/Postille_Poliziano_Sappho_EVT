@@ -7,7 +7,7 @@
     "analoguesUrl": "",
     "sourcesTextsUrl": "data/text/sources/",
     "singleImagesUrl": "data/images/single/",
-    "enableXMLdownload": true,
+    "enableXMLdownload": false,
     "visCollTextUrl": "",
     "visCollStyleUrl": "",
     "visCollSvg": "",
