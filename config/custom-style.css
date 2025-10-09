@@ -55,9 +55,11 @@ span.quote sup.iconbis-evt_quote-right {
 	margin-bottom: 10%;
 }
 
+/*
 .seg {
 	font-style: italic;
 }
+*/
 
 .g::before {
     content: "★" !important;
