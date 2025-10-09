@@ -989,13 +989,8 @@
 					Il presente lavoro pone le basi per un’edizione critica digitale delle annotazioni di Poliziano all’Epistola di Saffo a Faone che si leggono nell’incunabolo bodleiano di segnatura Auct. P 2.2, esemplare dell’edizione parmense del 1477 dell’Opera Omnia di Ovidio stampata dal tipografo Stefano Corallo. In questo incunabolo, le note all’Epistola di Saffo a Faone, come notava già Brencmann (1722), sono le più cospicue. Dopo esser state solo menzionate da Elisa-betta Lazzeri (1971) in introduzione alla sua edizione dell’Enarratio in Sapphus Epistulam, sono state studiate e approfondite per la prima volta da Maasaki Kubo, filologo classico membro della Classical Society of Japan. Il lavoro di Kubo, A Description of the Marginal Notes to Sappho's Letter in the Parmensis 1477 (Kubo, 1985) consiste in una trascrizione di lavoro delle note di Poliziano, nell’indicazione della localizzazione delle stesse sui facsimile delle pagi-ne dell’incunabolo, corredate da un commento generale e un indice dei passi citati e delle figure retoriche menzionate. In sede di commento segnala alcune connessioni tra le postille in questione e i commentari a stampa all’Epistula Sapphus, andando a collocare queste annotazioni nella storia della ricezione del testo di Ovidio. Kubo ritornò su questa riflessione l’anno successivo, in un articolo per la Classical Society of Japan in cui ha analizzato in che modo nella storia della ricezione si è cercato di mettere in relazione l’epistola con i frammenti di tradizione indiretta di Saffo (Kubo, 1986). Partendo dal lavoro di Kubo, ho proceduto a trascrivere nuovamente le annotazioni e ho utilizzato le metodologie delle Digital Humanities per registrare le informazioni meta-testuali, intertestuali e semantiche, che sono aspetti imprescindibili in un’edizione di un testo postillato, il quale per sua natura pone molteplici sfide ecdotiche. Nella mia proposta di edizione ho utilizzato la codifica in XML TEI, che è invalsa come standard di interoperabilità nell’ambito delle edizioni critiche digitali.
 					</p>
 					<lb />
-					<titlePage>
-						<docTitle>
-							<titlePart>Note</titlePart>
-						</docTitle>
-					</titlePage>
 					<p>
-
+						<title>Ringraziamenti</title>
 					</p>
 					<listBibl xml:id="bibliografia">
 					<head>Bibliografia</head>
