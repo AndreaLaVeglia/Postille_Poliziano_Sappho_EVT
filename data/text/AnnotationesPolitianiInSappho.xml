@@ -78,14 +78,13 @@
                     </witness> 
                     -->
 				</listWit>
-				<!--   ########## Fine "Lista Testimoni" ##########   -->
+				<!--   ########## End of "Lista Testimoni" ##########   -->
 
-				<!--   ########## Indice dei nomi ##########   -->
+				<!--   ########## Names index ##########   -->
 				<listPerson>
+					<head>Indice dei nomi</head>
 					<person xml:id="Gyrinna">
-						<persName xml:lang="lat">
-							<ref target="https://wikidata.org/wiki/">Gyrinna</ref>
-						</persName>
+						<persName xml:lang="lat">Gyrinna</persName>
 					</person>
 					<person xml:id="Anagora">
 						<persName xml:lang="lat"> Anagora Milesia </persName>
@@ -426,6 +425,7 @@
 						</placeName>
 					</place>
 				</listPlace>
+				<!-- ######### End of Names index ########## -->
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -438,7 +438,7 @@
 			</creation>
 		</profileDesc>
 		<encodingDesc>
-			<!--   ########## Dichiarazione delle tassonomie delle postille ##########   -->
+			<!--   ########## Declaration of taxonomies ##########   -->
 			<classDecl>
 				<taxonomy>
 					<category xml:id="lociParalleli">
@@ -461,7 +461,7 @@
 					</category>
 				</taxonomy>
 			</classDecl>
-			<!--   ########## Dichiarazione dei segni di rimando usati da Poliziano ##########   -->
+			<!--   ########## Declaration of index marks used by Poliziano ##########   -->
 			<charDecl>
 				<glyph xml:id="lunetta">
 					<localProp name="Name" value="lunetta con due puntini" />
@@ -470,6 +470,7 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile xml:id="facsimilePostille">
+		<!-- ########## Folio 238v ########## -->
 		<surface corresp="#f238v">
 			<graphic url="data/images/single/0001_238v.jpg" width="3650px" height="5797px" />
 			<zone ulx="1851" uly="3154" lrx="1919" lry="3195" rendition="HotSpot" subtype="indexMark" xml:id="facs_1_r_20" facs="#facs_1_r_20"> </zone>
@@ -634,6 +635,7 @@
 			<zone ulx="1617" uly="4273" lrx="3244" lry="4349" rendition="Line" xml:id="facs_1_l_2068" facs="#facs_1_l_2068" />
 			<zone ulx="1653" uly="4362" lrx="3026" lry="4444" rendition="Line" xml:id="facs_1_tr_1_tl_88" facs="#facs_1_tr_1_tl_88" />
 		</surface>
+		<!-- ########## Folio 239r ########## -->		
 		<surface corresp="#f239r">
 			<graphic url="data/images/single/0002_PAgina2.jpg" width="3495px" height="5754px" />
 			<zone ulx="534" uly="532" lrx="629" lry="601" rendition="HotSpot" subtype="indexMark" xml:id="facs_2_r" facs="#facs_2_r"> </zone>
@@ -846,6 +848,7 @@
 			<zone ulx="1733" uly="2867" lrx="1876" lry="2905" rendition="Line" xml:id="facs_2_l_1212" facs="#facs_2_l_1212" />
 			<zone ulx="1305" uly="3156" lrx="1425" lry="3190" rendition="Line" xml:id="facs_2_l_96" facs="#facs_2_l_96" />
 		</surface>
+		<!-- ########## Folio 239v ########## -->
 		<surface corresp="#f239v">
 			<graphic url="data/images/single/0003_PAG.3.jpg" width="4720px" height="7297px" />
 			<zone ulx="2422" uly="5327" lrx="2545" lry="5410" rendition="HotSpot" subtype="indexMark" xml:id="facs_3_region_1737638399562_15" facs="#facs_3_region_1737638399562_15"> </zone>
@@ -973,6 +976,7 @@
 		</surface>
 	</facsimile>
 	<text>
+	<!-- You can find here two different encoding of the same text in order to allow in EVT a triple level of visualisation of the same text: 1) facsimilar transcription 2) interpretative transcription 3) text with source apparatus. The first level are encoded in the edizione_multilivello and the third one in encoded in ipertesto_fonti. Future implementations of EVT should allow a unique encoding of the text from which one can extract the three different versions-->
 		<group>
 			<text xml:id="edizione_multilivello">
 				<front>
