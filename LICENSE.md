@@ -1,7 +1,4 @@
-CC BY-NC-SA 4.0 Attribution-NonCommercial-ShareAlike 4.0 International
-=======================================================================
-
-# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+# CC BY-NC-SA 4.0 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
