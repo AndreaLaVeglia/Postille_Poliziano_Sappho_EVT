@@ -6,4 +6,4 @@ I followed these passages for the developing of the DSE and the traditional edit
 3. I transformed the Transkribus TEI output in a regular TEI XML (according to the most updated guidelines) using XSLT sheets in compliance eith the EVT standards (from `./XSLT/01-create_div.xsl`to `.XSLT/05-regularize_ref_cit.xsl`).
 4. I transformed the TEI XML in a LaTEX file (`06-LaTEX_export.xsl`).
 
-![alt text](Pipeline_Transkribus-1.jpg)
+![alt text](Pipeline_Transkribus.jpg)
