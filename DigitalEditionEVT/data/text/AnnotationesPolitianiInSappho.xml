@@ -4,18 +4,27 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Le postille di Poliziano all'Epistola di Saffo a Faone. Edizione Digitale</title>
+				<title>Le postille di Poliziano all'Epistola di Saffo a Faone</title>
 				<respStmt>
-					<resp>Edizione a cura di</resp>
+					<resp>Edizione scientifica digitale a cura di</resp>
 					<name>Andrea La Veglia</name>
 				</respStmt>
+				<respStmt>
+					<resp>Supervisione scientifica di</resp>
+					<name>Giovan Battista D'Alessio</name>
+					<name>Gennaro Ferrante</name>
+				</respStmt>				
 			</titleStmt>
 			<publicationStmt>
-				<ab></ab>
+			<authority/>
+			<availability>
+				<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+			</availability>
 			</publicationStmt>
 			<!--   ########## SourceDesc ##########   -->
 			<sourceDesc>
 				<!--   ########## "Lista Testimoni" ##########   -->
+				   <!-- The <listWit> module is useful for representing witnesses in case of a text preserved by many witnesses. In this case we have the original text and we have not the need to represent multiple witnesses. Anyway this module could be useful for listing the exisstant apographs of the original that we actually know. Since EVT do not consent to visualize the <listWit> in the image-text mode (because it assumes that the edition is intended to represent a single witness), at the moment I commented the description of the apograph -->
 				<listWit>
 					<witness xml:id="Bodl">
 						<msDesc>
@@ -58,7 +67,7 @@
 							</physDesc>
 						</msDesc>
 					</witness>
-					<!--                    
+					<!--   !!commented because it is non supported by EVT visualization!!                 
                     <witness xml:id="BSB">
                         <msDesc>
                             <msIdentifier>
@@ -439,6 +448,7 @@
 		</profileDesc>
 		<encodingDesc>
 			<!--   ########## Declaration of taxonomies ##########   -->
+			<!-- Notice that actually this taxonomy declaration is not supported by EVT visualization -->
 			<classDecl>
 				<taxonomy>
 					<category xml:id="lociParalleli">
@@ -462,9 +472,31 @@
 				</taxonomy>
 			</classDecl>
 			<!--   ########## Declaration of index marks used by Poliziano ##########   -->
+			<!-- future developments of the edition are going to integrate the semantic relation enhanced by the index marks. A visualisation of this relation will be provided too.-->
 			<charDecl>
-				<glyph xml:id="lunetta">
+				<glyph xml:id="parva_luna">
 					<localProp name="Name" value="lunetta con due puntini" />
+				</glyph>
+				<glyph xml:id="lineolae">
+					<localProp name="Name" value="barra orizzontale con due barre verticali e due puntini" />
+				</glyph>
+				<glyph xml:id="lineola_punctis_circulata">
+					<localProp name="Name" value="linea con due puntini laterali cerchiata" />
+				</glyph>
+				<glyph xml:id="tripunctum">
+					<localProp name="Name" value="tre puntini in triangolo" />
+				</glyph>
+				<glyph xml:id="circuli">
+					<localProp name="Name" value="due cerchietti uniti da un trattino" />
+				</glyph>
+				<glyph xml:id="punctum_cum_linea">
+					<localProp name="Name" value="puntino con linea orizzontale sopra" />
+				</glyph>
+				<glyph xml:id="tripunctum_circulatum">
+					<localProp name="Name" value="tre puntini in triangolo cerchiati" />
+				</glyph>
+				<glyph xml:id="linea_punctis">
+					<localProp name="Name" value="linea con due puntini laterali" />
 				</glyph>
 			</charDecl>
 		</encodingDesc>
