@@ -2,7 +2,7 @@
 # The Digital Scholarly Edition of Marginal Notes of Poliziano to the Epistle of Sappho to Phaon
 
 This is the first prototype of the digital scholarly edition (DSE) of the first part of marginal notes of Poliziano to Ovid, that we can read in the Bodl. Auct. P 2.2.
-This prototype was developed as a final dissertation for the Master Degree of Andrea La Veglia at the University of Naples "Federico II" under the supervision of Prof. Giovan Battista D'Alessio and Prof. Gennaro Ferrante.
+This prototype was developed as a final dissertation for the MA Degree in "Filologia, Letterature e Civiltà del Mondo Antico" of Andrea La Veglia at the University of Naples "Federico II" under the supervision of Prof. Giovan Battista D'Alessio and Prof. Gennaro Ferrante.
 
 ## Credits 
 Title of MA thesis: "Le postille di Poliziano all’Epistola di Saffo a Faone nell’incunabolo bodleiano Auct. P 2.2. Introduzione e specimen di edizione digitale", University of Naples "Federico II", a.y. 2023/2024.  
