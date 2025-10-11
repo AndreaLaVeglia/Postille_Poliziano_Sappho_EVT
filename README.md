@@ -9,5 +9,5 @@ Title of MA thesis: "Le postille di Poliziano all’Epistola di Saffo a Faone ne
 © Images taken by Prof. G. B. D'Alessio at the Bodleian Library.  
 This DSE was developed with the assistance of the FeDHLab, the Digital Humanities centre at the University of Naples.  
 I would like to express my gratitude to my supervisors for their guidance in this research and to Roberto Rosselli del Turco for granting access to the EVT software and for imparting me the necessary expertise to utilise it.  
-A very special thanks is due to all experts that provided me invaluable support for the development of this work: Angelo Mario Del Grosso, Nicola Reggiani, Camillo Carlo Pellizzari di San Girolamo, Thibault Clérice, Sara Mansutti, Georg Vogeler, Michele Giovanni Silani, Monica Berti and Riccardo Montalto.
+A very special thanks is due to all experts that provided me invaluable support for the development of this work: Angelo Mario Del Grosso, Luigi Bambaci, Nicola Reggiani, Camillo Carlo Pellizzari di San Girolamo, Thibault Clérice, Sara Mansutti, Georg Vogeler, Michele Giovanni Silani, Monica Berti and Riccardo Montalto.
 
