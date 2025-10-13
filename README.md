@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17315767.svg)](https://doi.org/10.5281/zenodo.17315767)
 # The Digital Scholarly Edition of Marginal Notes of Poliziano to the Epistle of Sappho to Phaon
 
-This is the first prototype of the digital scholarly edition (DSE) of the first part of marginal notes of Poliziano to Ovid, that we can read in the Bodl. Auct. P 2.2.
+This is the first prototype of the digital scholarly edition (DSE) of the first part of marginal notes of Poliziano to the Epistle of Sappho to Phaon, that we can read in the Bodl. Auct. P 2.2, exemplar of the 4th print edition of Ovid.
 This prototype was developed as a final dissertation for the MA Degree in "Filologia, Letterature e Civiltà del Mondo Antico" of Andrea La Veglia at the University of Naples "Federico II" under the supervision of Prof. Giovan Battista D'Alessio and Prof. Gennaro Ferrante.
 
 ## Credits 
