@@ -17,6 +17,7 @@
 			</titleStmt>
 			<publicationStmt>
 			<authority/>
+			<!--  ######### CREATIVE COMMONS LICENSE ########## -->
 			<availability>
 				<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
 			</availability>
@@ -24,7 +25,7 @@
 			<!--   ########## SourceDesc ##########   -->
 			<sourceDesc>
 				<!--   ########## "Lista Testimoni" ##########   -->
-				   <!-- The <listWit> module is useful for representing witnesses in case of a text preserved by many witnesses. In this case we have the original text and we have not the need to represent multiple witnesses. Anyway this module could be useful for listing the exisstant apographs of the original that we actually know. Since EVT do not consent to visualize the <listWit> in the image-text mode (because it assumes that the edition is intended to represent a single witness), at the moment I commented the description of the apograph -->
+				   <!-- The <listWit> module is useful for representing witnesses in case of a text preserved by many witnesses. In this case we have the original text, so we have not the need to represent multiple witnesses. Anyway this module could be useful for listing the exisstant apographs of the original that we actually know. Since EVT do not consent to visualize the <listWit> in the image-text mode (because it assumes that the edition is intended to represent a single witness), at the moment I commented the description of the apograph -->
 				<listWit>
 					<witness xml:id="Bodl">
 						<msDesc>
