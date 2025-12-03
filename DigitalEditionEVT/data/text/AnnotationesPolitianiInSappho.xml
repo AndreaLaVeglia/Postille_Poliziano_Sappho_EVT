@@ -1009,7 +1009,9 @@
 		</surface>
 	</facsimile>
 	<text>
-	<!-- You can find here two different encoding of the same text in order to allow in EVT a triple level of visualisation of the same text: 1) facsimilar transcription 2) interpretative transcription 3) text with source apparatus. The first level are encoded in the edizione_multilivello and the third one in encoded in ipertesto_fonti. Future implementations of EVT should allow a unique encoding of the text from which one can extract the three different versions-->
+	<!-- You can find here two different encoding of the same text in order to allow in EVT a triple level of visualisation of the same text: 1) facsimilar transcription 2) interpretative transcription 3) text with source apparatus. 
+	 The first and the second level are encoded in the edizione_multilivello and the third one in encoded in ipertesto_fonti. 
+	 Future developments of EVT should allow a unique encoding of the text from which one can extract the three different versions-->
 		<group>
 			<text xml:id="edizione_multilivello">
 				<front>
