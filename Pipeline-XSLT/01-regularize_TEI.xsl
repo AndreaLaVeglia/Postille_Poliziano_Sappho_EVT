@@ -151,7 +151,7 @@
   </xsl:template>
 
 
-  <!-- In Transkribus, citations have been marked with "quote" property to which "ref" "bibl" and "cit" attributes are associated to identify sources. Now we will proceed to mark the citation in the text with <seg> (segmentation) and then connect this portion of the text with the citation in an appendix (<back>) of the LociParallels -->
+  <!-- In Transkribus, citations have been marked with "quote" tag to which "ref" "bibl" and "cit" attributes are associated to identify sources. Now we will mark the citations in the text with <seg> (segmentation) and then connect this portion of the text with the citation in an appendix (<back>) of the Loci Paralleli -->
 
   <!-- Insert the contents of <quote> into <seg> -->
   <xsl:template match="quote">
